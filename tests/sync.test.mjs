@@ -5,7 +5,7 @@ import {references, buildGraph, applyTombstones, validateGraph} from '../lib/not
 import {validSignature, recordEvent} from '../lib/sync.mjs';
 
 const root='a'.repeat(32), child='b'.repeat(32), deleted='c'.repeat(32), database='d'.repeat(32);
-const scope={workspaceId:'workspace',integrationId:'bot',workspace:'Test',roots:[{id:root,group:'life',kind:'page'},{id:deleted,group:'life',kind:'page'}],groups:[{id:'life'}],reference:{}};
+const scope={workspaceId:'workspace',integrationId:'connection',botId:'bot',workspace:'Test',roots:[{id:root,group:'life',kind:'page'},{id:deleted,group:'life',kind:'page'}],groups:[{id:'life'}],reference:{}};
 test('only structural tags enter the map; prose and record values cannot leak',()=>{
   const refs=references(`Private balance R50,000. [Account](https://private.example) <mention-page url="https://app.notion.com/p/${deleted}"/> <page url="https://app.notion.com/p/${child}">Child</page><database url="https://app.notion.com/p/${database}"/>`);
   assert.deepEqual(refs.map(r=>r.id),[child,database]);
@@ -42,9 +42,10 @@ test('deleting one source keeps its live multi-source database container',()=>{
 test('out-of-order deletions cannot override newer restores or cross-workspace events',async()=>{
   let data={},etag=0;
   const s={async getWithMetadata(){return etag?{data:structuredClone(data),etag:String(etag)}:null},async setJSON(key,next){if(key==='tombstones'){data=structuredClone(next);etag++;}return {modified:true,etag:String(etag)}}};
-  const event={workspace_id:'workspace',integration_id:'bot',entity:{id:root},type:'page.undeleted',timestamp:'2026-11-05T10:00:00Z'};
+  const event={workspace_id:'workspace',integration_id:'connection',entity:{id:root},type:'page.undeleted',timestamp:'2026-11-05T10:00:00Z'};
   await recordEvent(s,event,scope);await recordEvent(s,{...event,type:'page.deleted',timestamp:'2026-11-05T09:59:00Z'},scope);
   assert.equal(data[root].deleted,false);assert.equal(await recordEvent(s,{...event,workspace_id:'other'},scope),false);
+  assert.equal(await recordEvent(s,{...event,integration_id:'bot'},scope),false);
 });
 test('failed Notion reads and failed pagination abort publication',async()=>{
   await assert.rejects(buildGraph(scope,async path=>path==='users/me'?{id:'wrong',bot:{workspace_id:'workspace'}}:{}),/Unexpected Notion/);

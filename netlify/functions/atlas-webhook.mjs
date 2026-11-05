@@ -17,8 +17,13 @@ export default async request => {
     return new Response(null, {status: 200});
   }
   const verification = await s.get('verification', {type: 'json'});
-  if (!validSignature(body, request.headers.get('x-notion-signature'), verification?.token)) return new Response(null, {status: 401});
-  if (await recordEvent(s, event, await loadScope())) {
+  const signatureOK = validSignature(body, request.headers.get('x-notion-signature'), verification?.token);
+  const scope = await loadScope();
+  // Only routing metadata, never content, authors, request bodies or signatures.
+  await s.setJSON('last-delivery', {receivedAt: new Date().toISOString(), type: event.type,
+    workspaceId: event.workspace_id, integrationId: event.integration_id, signatureOK});
+  if (!signatureOK) return new Response(null, {status: 401});
+  if (await recordEvent(s, event, scope)) {
     console.info('Atlas structural update received:', event.type);
     await kick(request.url);
   }

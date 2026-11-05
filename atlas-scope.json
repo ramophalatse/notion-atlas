@@ -1,7 +1,7 @@
 {
   "workspaceId": "c707d4a0-0026-4c58-8d82-00798c651083",
   "workspace": "Ramo Phalatsi’s Notion",
-  "integrationId": "40ff0852-f6f7-816b-ae63-00277cc06c63",
+  "integrationId": "40fd872b-594c-81c4-91c0-0037080fcf73",
   "groups": [
     {
       "id": "life",
@@ -207,5 +207,6 @@
       "group": "travel",
       "kind": "database"
     }
-  ]
+  ],
+  "botId": "40ff0852-f6f7-816b-ae63-00277cc06c63"
 }
