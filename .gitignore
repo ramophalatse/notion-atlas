@@ -3,3 +3,9 @@
 node_modules/
 *.local.json
 __pycache__/
+.netlify/
+.env*
+!.env.example
+
+# Local Netlify folder
+.netlify

@@ -1,6 +1,7 @@
 'use strict';
 (() => {
-  const D=window.ATLAS_DATA, $=id=>document.getElementById(id), N=new Map(D.nodes.map(n=>[n.id,n])), G=new Map(D.groups.map(g=>[g.id,g]));
+  let D=window.ATLAS_DATA;
+  const $=id=>document.getElementById(id), N=new Map(D.nodes.map(n=>[n.id,n])), G=new Map(D.groups.map(g=>[g.id,g]));
   const views={rings:['Structure in rings','Entry points inside. Databases, pages and views around them.'],circle:['One workspace. One circle.','Every object on the edge. Connections run through the centre.'],areas:['Systems, grouped by area','Area assignments help you navigate this snapshot.'],links:['Follow the connections','Select an object to highlight its direct references and relations.'],timeline:['Last edited, where available','Uses available edit dates. Undated objects stay separate.'],orbit:['A different perspective','Drag to rotate. Scroll to zoom. Select a dot to inspect.']};
   const canvas=$('map'),ctx=canvas.getContext('2d'), reduce=matchMedia('(prefers-reduced-motion: reduce)');
   let view='rings',area='all',query='',selected=null,hover=null,labels=false,directory=false,showRelations=true,showOutside=false,zoom=1,pan={x:0,y:0},drag=null,rotation=.3,tilt=.25,raf=0,w=0,h=0,positions=new Map(),visible=[],visibleEdges=[],drawn=[],theme={};
@@ -12,8 +13,11 @@
   function palette(){const css=getComputedStyle(document.documentElement);theme=Object.fromEntries(['text','muted','line','strong','accent','bg','card'].map(k=>[k,css.getPropertyValue('--'+k).trim()]));theme.L=css.getPropertyValue('--L').trim();theme.C=css.getPropertyValue('--C').trim();$('theme').setAttribute('aria-label',`Switch to ${document.documentElement.dataset.theme==='dark'?'light':'dark'} theme`)}
   function btn(text,fn,cls){const b=el('button',cls,text);b.type='button';b.onclick=fn;return b}
   function date(s){return s?new Intl.DateTimeFormat('en-ZA',{day:'numeric',month:'short',year:'numeric'}).format(new Date(s)):'Not available'}
-  $('capture-date').textContent=date(D.capturedAt);$('total-nodes').textContent=D.nodes.filter(n=>n.kind!=='external').length;$('total-links').textContent=D.edges.length;$('coverage').textContent=D.coverage;$('outside-count').textContent=D.nodes.filter(n=>n.kind==='external').length;
-  D.notes.forEach(t=>$('notes').append(el('li','',t)));$('reference').href=D.reference.url;
+  function metadata(){
+    $('capture-date').textContent=date(D.capturedAt);$('total-nodes').textContent=D.nodes.filter(n=>n.kind!=='external').length;$('total-links').textContent=D.edges.length;$('total-areas').textContent=String(D.groups.filter(g=>D.nodes.some(n=>n.group===g.id&&n.kind!=='external')).length).padStart(2,'0');$('coverage').textContent=D.coverage;$('outside-count').textContent=D.nodes.filter(n=>n.kind==='external').length;
+    $('notes').replaceChildren();D.notes.forEach(t=>$('notes').append(el('li','',t)));$('reference').href=D.reference.url;
+  }
+  metadata();
   for(const [id] of Object.entries(views)){const b=btn(id==='orbit'?'3D orbit':id[0].toUpperCase()+id.slice(1),()=>setView(id));b.dataset.view=id;b.setAttribute('aria-pressed',String(id===view));$('views').append(b)}
   function renderAreas(){
     $('areas').replaceChildren();const all=btn('All areas',()=>filterArea('all'));all.setAttribute('aria-pressed',String(area==='all'));$('areas').append(all);
@@ -36,7 +40,7 @@
   function select(id){selected=id;hover=null;details();renderEntries();$('selection-status').textContent=N.get(id).title;requestDraw()}
   function details(){
     const box=$('details');box.replaceChildren();
-    if(!selected){box.append(el('p','eyebrow','Your workspace, connected'),el('h2','',"Start with a connection."),el('div','intro-number','16'),el('p','','entry points into my Notion workspace.'),el('p','instruction','Choose an area. Select a dot. Follow the links.'),el('p','tip','The Directory gives you the same map as a searchable list. Every source link opens in Notion.'));return}
+    if(!selected){box.append(el('p','eyebrow','Your workspace, connected'),el('h2','',"Start with a connection."),el('div','intro-number',String(D.roots.length)),el('p','','entry points into my Notion workspace.'),el('p','instruction','Choose an area. Select a dot. Follow the links.'),el('p','tip','The Directory gives you the same map as a searchable list. Every source link opens in Notion.'));return}
     const n=N.get(selected);const kind=el('span','node-kind');setHue(kind,n.group);kind.append(el('i'),document.createTextNode(`${G.get(n.group).title} / ${n.kind==='entry'?'Entry point':n.kind}`));box.append(kind,el('h2','',n.title));
     if(n.url){const a=el('a','open-link','Open in Notion ↗');a.href=n.url;a.target='_blank';a.rel='noopener noreferrer';box.append(a)}
     const facts=el('div','facts');for(const [k,v] of [['Evidence',n.evidence],['Source',n.status],['Last edited',n.edited?date(n.edited):null]]){if(!v)continue;const row=el('div');row.append(el('span','',k),el('strong','',v));facts.append(row)}box.append(facts);
@@ -116,4 +120,15 @@
   document.addEventListener('keydown',e=>{if(e.key==='/'&&!['INPUT','TEXTAREA'].includes(document.activeElement.tagName)){e.preventDefault();$('search').focus()}if(e.key==='Escape'){selected=null;details();renderEntries();requestDraw()}});
   document.addEventListener('visibilitychange',requestDraw);reduce.addEventListener('change',requestDraw);new ResizeObserver(resize).observe(canvas);
   palette();renderAreas();renderEntries();details();resize();update();
+  window.AtlasSync?.start({
+    onData(next){
+      D=next;window.ATLAS_DATA=next;N.clear();G.clear();adjacency.clear();
+      D.nodes.forEach(n=>{N.set(n.id,n);adjacency.set(n.id,[])});D.groups.forEach(g=>G.set(g.id,g));
+      D.edges.forEach(e=>{adjacency.get(e.source).push(e);if(e.source!==e.target)adjacency.get(e.target).push(e)});
+      if(selected&&!N.has(selected))selected=null;if(area!=='all'&&!G.has(area))area='all';hover=null;$('tooltip').hidden=true;
+      $('selection-status').textContent=selected?N.get(selected).title:'Map updated from Notion';
+      metadata();renderAreas();renderEntries();details();update();
+    },
+    onStatus(text){$('sync-status').textContent=text;$('sync-header').textContent=text;}
+  });
 })();

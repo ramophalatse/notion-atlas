@@ -5,13 +5,15 @@ args=parser.parse_args()
 src=json.loads(args.source.read_text())
 out=pathlib.Path(__file__).resolve().parent.parent
 groups=[('life','Life OS',158),('personal','Personal',300),('travel','Travel',145),('collections','Collections',50),('work','Nedbank',28),('systems','Open Engine',320),('business','Maru',340),('finance','Finance',130)]
-root_groups=['life','life','travel','collections','collections','work','systems','personal','life','personal','personal','business','personal','finance','finance','finance']
+scope=json.loads((out/'atlas-scope.json').read_text())
+root_groups={r['id']:r['group'] for r in scope['roots']}
 nodes={}; edges=[]; sources={}; dbstates={}; rootset=set(src['roots'])
 def clean(s): return re.sub(r'<[^>]*>','',s).replace('\\|','|').strip()
 def add(id,title,group,kind='page',**kw):
     if id not in nodes: nodes[id]={'id':id,'title':clean(title) or 'Untitled database view','group':group,'kind':kind,'url':'https://app.notion.com/p/'+id,**kw}
     return nodes[id]
-for id,group in zip(src['roots'],root_groups):
+for id in src['roots']:
+    group=root_groups[id]
     s=src['fetched'][id]; add(id,s['title'],group,'entry',edited=s.get('page_last_edited_at'),evidence='Fetched entry point')
 for root in src['roots']:
     for ref in src['refs'][root]:
@@ -54,7 +56,7 @@ seen=set(); dedup=[]
 for e in edges:
     key=tuple(e[k] for k in ('source','target','type','label'))
     if key not in seen: seen.add(key);dedup.append(e)
-data={'version':1,'capturedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'workspace':'Ramo Phalatsi\u2019s Notion','coverage':'Structural snapshot of 16 selected entry points, their direct page/database references, and available database relation schemas. Database records and page bodies are excluded. This is not a complete workspace crawl or a live sync.','groups':[{'id':i,'title':t,'hue':h} for i,t,h in groups],'roots':src['roots'],'nodes':list(nodes.values()),'edges':dedup,'reference':{'title':'Turn Claude Code Into Your AI Operating System (4 Layers)','author':'Pav Rusovs | Automation Orbit','url':'https://www.youtube.com/watch?v=Zs3faMCDYNs&t=8s'},'notes':['Group assignments and entry-point selection are editorial navigation choices. Reference edges mean a page embeds or links another object, not necessarily its parent.','Relation edges describe database schemas, not populated record relationships. An outside-snapshot target is not proven broken.','Both migrated PYLOS copies and the pre-existing Essential Edition remain separate. No canonical-system or migration signoff is implied.','Timeline uses available last-edited metadata. Missing dates remain undated. There is no activity log.','No credentials, page bodies, record values, signed asset URLs, emails or financial balances are included. Notion access controls apply when opening a source link.']}
+data={'version':1,'capturedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'workspace':'Ramo Phalatsi\u2019s Notion','coverage':f"Saved structure of {len(src['roots'])} active selected entry points, their direct references, and available relation schemas. Database records and page bodies are excluded. The live feed is checked automatically when connected.",'groups':[{'id':i,'title':t,'hue':h} for i,t,h in groups],'roots':src['roots'],'nodes':list(nodes.values()),'edges':dedup,'reference':{'title':'Turn Claude Code Into Your AI Operating System (4 Layers)','author':'Pav Rusovs | Automation Orbit','url':'https://www.youtube.com/watch?v=Zs3faMCDYNs&t=8s'},'notes':['Group assignments and entry-point selection are editorial navigation choices. Reference edges mean a page embeds or links another object, not necessarily its parent.','Relation edges describe database schemas, not populated record relationships. An outside-snapshot target is not proven broken.','Deleted entries are excluded. Separate active systems retain their identities; no migration signoff is implied.','Timeline uses available last-edited metadata. Missing dates remain undated. There is no activity log.','No credentials, page bodies, record values, signed asset URLs, emails or financial balances are included. Notion access controls apply when opening a source link.']}
 (out/'data.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
 (out/'data.js').write_text('window.ATLAS_DATA = '+json.dumps(data,ensure_ascii=False).replace('\u2028','\\u2028').replace('\u2029','\\u2029')+';\n')
 print(json.dumps({'nodes':len(nodes),'edges':len(dedup),'outside':sum(n['kind']=='external' for n in nodes.values()),'schemas':sum(bool(v) for v in dbstates.values()),'groups':len(groups)}))

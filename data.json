@@ -1,8 +1,7 @@
 {
   "version": 1,
-  "capturedAt": "2026-11-05T04:05:46.581137+00:00",
+  "capturedAt": "2026-11-05T05:01:12.088Z",
   "workspace": "Ramo Phalatsi’s Notion",
-  "coverage": "Structural snapshot of 16 selected entry points, their direct page/database references, and available database relation schemas. Database records and page bodies are excluded. This is not a complete workspace crawl or a live sync.",
   "groups": [
     {
       "id": "life",
@@ -47,7 +46,6 @@
   ],
   "roots": [
     "29ff0852f6f782eeb81301ea9ed966f4",
-    "ec6f0852f6f782b7817a812e37659b66",
     "bb4f0852f6f7825fab67817cae6f9a2f",
     "da4f0852f6f7836fa1e381ce7e7ec0d9",
     "410f0852f6f782c5bd7a811ad7a15eb0",
@@ -70,165 +68,9 @@
       "group": "life",
       "kind": "entry",
       "url": "https://app.notion.com/p/29ff0852f6f782eeb81301ea9ed966f4",
-      "edited": "2026-11-04T04:42:57.185Z",
-      "evidence": "Fetched entry point",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
       "sources": []
-    },
-    {
-      "id": "ec6f0852f6f782b7817a812e37659b66",
-      "title": "PYLOS",
-      "group": "life",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/ec6f0852f6f782b7817a812e37659b66",
-      "edited": "2026-11-04T05:35:04.751Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "bb4f0852f6f7825fab67817cae6f9a2f",
-      "title": "Travel",
-      "group": "travel",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/bb4f0852f6f7825fab67817cae6f9a2f",
-      "edited": "2026-11-04T04:33:21.228Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "da4f0852f6f7836fa1e381ce7e7ec0d9",
-      "title": "My Cigar Collection",
-      "group": "collections",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/da4f0852f6f7836fa1e381ce7e7ec0d9",
-      "edited": "2026-11-04T04:12:33.996Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "410f0852f6f782c5bd7a811ad7a15eb0",
-      "title": "My Whisky Collection",
-      "group": "collections",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/410f0852f6f782c5bd7a811ad7a15eb0",
-      "edited": "2026-11-04T04:31:16.608Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "af6f0852f6f78380b1d1018b33de6531",
-      "title": "Nedbank",
-      "group": "work",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/af6f0852f6f78380b1d1018b33de6531",
-      "edited": "2026-11-04T04:42:37.074Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "fa1f0852f6f7820e9b040129dce7287e",
-      "title": "🧩 Open Engine",
-      "group": "systems",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/fa1f0852f6f7820e9b040129dce7287e",
-      "edited": "2026-11-04T04:40:40.272Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "40ef0852f6f7800c9eace5ec7ee7d621",
-      "title": "🧠 Mothership",
-      "group": "personal",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/40ef0852f6f7800c9eace5ec7ee7d621",
-      "edited": "2026-11-04T04:55:03.693Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "1dbf0852f6f780c3aa2fdf0cda658164",
-      "title": "Perfect Year Life OS | Essential Edition",
-      "group": "life",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/1dbf0852f6f780c3aa2fdf0cda658164",
-      "edited": "2025-04-20T12:34:07.877Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "b69f0852f6f782aca5468135a70916a5",
-      "title": "My Year",
-      "group": "personal",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/b69f0852f6f782aca5468135a70916a5",
-      "edited": null,
-      "evidence": "Fetched entry point",
-      "sources": [
-        "collection://3c0f0852-f6f7-829b-b537-0757c1ba5f89"
-      ]
-    },
-    {
-      "id": "2adf0852f6f7829f98c101a540a5281e",
-      "title": "Achievement Blueprint",
-      "group": "personal",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/2adf0852f6f7829f98c101a540a5281e",
-      "edited": "2026-11-04T04:57:47.506Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "6eff0852f6f782e18ac7010fc4bd8906",
-      "title": "Maru Spaces’ Teamspace",
-      "group": "business",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/6eff0852f6f782e18ac7010fc4bd8906",
-      "edited": "2026-11-04T04:52:34.095Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "865f0852f6f782b8a3a2819ee4532513",
-      "title": "Home",
-      "group": "personal",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/865f0852f6f782b8a3a2819ee4532513",
-      "edited": "2026-11-04T04:43:20.103Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "810f0852f6f78261ac550155839b7429",
-      "title": "📖 Ka'ching — Standing Classification Rules",
-      "group": "finance",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/810f0852f6f78261ac550155839b7429",
-      "edited": "2026-11-04T04:51:33.357Z",
-      "evidence": "Fetched entry point",
-      "sources": []
-    },
-    {
-      "id": "9f0f0852f6f783a8bfbd815e14c9e8b8",
-      "title": "📓 Ka'ching — AI Chat Logs",
-      "group": "finance",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/9f0f0852f6f783a8bfbd815e14c9e8b8",
-      "edited": null,
-      "evidence": "Fetched entry point",
-      "sources": [
-        "collection://b3bf0852-f6f7-8316-adcc-0737d3620590"
-      ]
-    },
-    {
-      "id": "fe4f0852f6f7838f8ea8010370c65fba",
-      "title": "Personal Finance Recon",
-      "group": "finance",
-      "kind": "entry",
-      "url": "https://app.notion.com/p/fe4f0852f6f7838f8ea8010370c65fba",
-      "edited": null,
-      "evidence": "Fetched entry point",
-      "sources": [
-        "collection://9c6f0852-f6f7-833a-8b65-875d9fe49e02"
-      ]
     },
     {
       "id": "391f0852f6f7829fbee601ebe99714f8",
@@ -236,8 +78,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/391f0852f6f7829fbee601ebe99714f8",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "469f0852f6f78246ad2c81e3d63b80b7",
@@ -245,8 +88,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/469f0852f6f78246ad2c81e3d63b80b7",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:58.421+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://db5f0852-f6f7-83c6-adce-87038f43671d"
       ],
@@ -258,8 +101,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/d0ef0852f6f782f986aa01802db304b0",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:43:04.508+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://2b3f0852-f6f7-8321-ba8b-07ab30d3ea54"
       ],
@@ -271,8 +114,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/9faf0852f6f7822da89381a62caf9136",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-05T03:51:16.140+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://2a4f0852-f6f7-8254-86ff-87112a90e6a2"
       ],
@@ -284,8 +127,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/609f0852f6f78315b71f81d5d273c13e",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-05T03:51:18.259+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://2e7f0852-f6f7-82cb-a722-87a8f5be9fee"
       ],
@@ -297,8 +140,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/2b0f0852f6f7836a99190139d2ae2fc7",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:59.237+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://735f0852-f6f7-8296-80f3-07b69ba9fca0"
       ],
@@ -306,16 +149,14 @@
     },
     {
       "id": "695f0852f6f78286b2bd01bde743d17a",
-      "title": "View of Interfaces",
+      "title": "Untitled",
       "group": "life",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/695f0852f6f78286b2bd01bde743d17a",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://db5f0852-f6f7-83c6-adce-87038f43671d"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:42:58.486+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "3b6f0852f6f78374854581df2e3c0078",
@@ -323,8 +164,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/3b6f0852f6f78374854581df2e3c0078",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:58.619+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://c1ff0852-f6f7-834b-8330-876770257413"
       ],
@@ -336,8 +177,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/4c3f0852f6f7835d8c99017f82fb3b99",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:43:05.754+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://326f0852-f6f7-82b3-8e38-079684809f5b"
       ],
@@ -349,8 +190,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/3a7f0852f6f7834bb01e01d9c8232903",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:58.164+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://754f0852-f6f7-8212-bf45-87c8afa9af00"
       ],
@@ -362,8 +203,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/c5af0852f6f7828080a581279bebaf0d",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:59.106+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://027f0852-f6f7-833c-8c81-0770c2d6760b"
       ],
@@ -375,8 +216,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/1a8f0852f6f782d6a7cb0122a91d8e61",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:59.341+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://824f0852-f6f7-82e7-b5f9-87eb0cb615f8"
       ],
@@ -388,8 +229,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/6a4f0852f6f783e4b7b381c21ced5f69",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:59.441+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://e34f0852-f6f7-82b8-87dc-07a71178de14"
       ],
@@ -401,8 +242,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/3e3f0852f6f782b3b53b8179bf44b6df",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:59.517+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://761f0852-f6f7-8238-879e-0725a15781d5"
       ],
@@ -414,8 +255,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/a08f0852f6f7829c93ba01f4a88d26bc",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:59.820+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://3c2f0852-f6f7-83ac-84e7-07387be4ce36"
       ],
@@ -427,8 +268,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/4daf0852f6f783bdbde5817464decfa2",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:59.892+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://631f0852-f6f7-820c-a479-877471bfa581"
       ],
@@ -440,8 +281,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/f1ff0852f6f783b79faa01a02c7af2a3",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:59.097+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://b30f0852-f6f7-830b-8f9f-07f948ffdf98",
         "collection://353f0852-f6f7-8370-af7a-87e76a0dd9e6"
@@ -450,16 +291,14 @@
     },
     {
       "id": "a8af0852f6f78315a8e181ba74ad9941",
-      "title": "View of Interfaces",
+      "title": "Untitled",
       "group": "life",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/a8af0852f6f78315a8e181ba74ad9941",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://db5f0852-f6f7-83c6-adce-87038f43671d"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:42:58.454+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "18df0852f6f782d3a14e01933039effa",
@@ -467,8 +306,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/18df0852f6f782d3a14e01933039effa",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-05T03:51:18.259+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://debf0852-f6f7-8303-b7d1-078f225bbf46"
       ],
@@ -476,12 +315,12 @@
     },
     {
       "id": "85ef0852f6f782c58aa30121f1ff1bc6",
-      "title": "🔁 Echo Reminders (Ramo)",
+      "title": "Echo Reminders (Ramo)",
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/85ef0852f6f782c58aa30121f1ff1bc6",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:58.975+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://61af0852-f6f7-824e-9f34-87301ef21cee"
       ],
@@ -493,296 +332,39 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/705f0852f6f7820680e601131f455f54",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:43:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
-      "id": "7b2f0852f6f783178fdd01154ee6a947",
-      "title": "Read Me First! + Full Guide",
-      "group": "life",
-      "kind": "page",
-      "url": "https://app.notion.com/p/7b2f0852f6f783178fdd01154ee6a947",
-      "evidence": "Reference on entry page",
-      "edited": null
-    },
-    {
-      "id": "f13f0852f6f78231ad508166fff3fab1",
-      "title": "Interfaces",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/f13f0852f6f78231ad508166fff3fab1",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://4fbf0852-f6f7-8330-a441-871611f750b7"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "a0ef0852f6f78341a68c811377d67481",
-      "title": "Areas",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/a0ef0852f6f78341a68c811377d67481",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://3fef0852-f6f7-82f1-ae37-0703d59b212e"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "c25f0852f6f7829ab20501911c20dc39",
-      "title": "Future Visions",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/c25f0852f6f7829ab20501911c20dc39",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://7c6f0852-f6f7-8235-8f7b-07a6982cb04d"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "b02f0852f6f782d7bdc981affb6ca307",
-      "title": "Goals",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/b02f0852f6f782d7bdc981affb6ca307",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://760f0852-f6f7-8209-becd-876061db87f6"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "850f0852f6f78295bb9601b819074c1f",
-      "title": "Weekly Reviews",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/850f0852f6f78295bb9601b819074c1f",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://9a2f0852-f6f7-8396-af84-070cae9f1548"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "738f0852f6f78307aa9181566ab33219",
-      "title": "View of Interfaces",
-      "group": "life",
-      "kind": "view",
-      "url": "https://app.notion.com/p/738f0852f6f78307aa9181566ab33219",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://4fbf0852-f6f7-8330-a441-871611f750b7"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "title": "Projects",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/42ef0852f6f783cbbdb1011cbc9e1703",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://ec5f0852-f6f7-83a6-87a4-87b688489f30"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "6a2f0852f6f782cba336015fb76b71a4",
-      "title": "Tasks",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/6a2f0852f6f782cba336015fb76b71a4",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://886f0852-f6f7-8259-85fb-0776d9b9b7cf"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "4adf0852f6f782d087de81f2fb23e335",
-      "title": "Notes",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/4adf0852f6f782d087de81f2fb23e335",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://cbdf0852-f6f7-8225-a23d-07a64bb2adc8"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "103f0852f6f78219b4c981ada07eec5a",
-      "title": "Meeting Notes",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/103f0852f6f78219b4c981ada07eec5a",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://7f1f0852-f6f7-821b-bf65-87f4e63488dc"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "fa8f0852f6f783a89eef0142ee24beb1",
-      "title": "Resources",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/fa8f0852f6f783a89eef0142ee24beb1",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://fa2f0852-f6f7-8375-a987-07c2e779a491"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "709f0852f6f783b689950199e11b1609",
-      "title": "Contacts",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/709f0852f6f783b689950199e11b1609",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://cdff0852-f6f7-8384-951b-077222b46b99"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "9def0852f6f782ed9abc8176ebf70345",
-      "title": "Organisations",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/9def0852f6f782ed9abc8176ebf70345",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://ac1f0852-f6f7-82cb-af8f-872ce558946b"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "title": "Tags",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/ad3f0852f6f782feb4dc01b74a8244d4",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://75cf0852-f6f7-832b-b7db-87cfbd5d02ce"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "78af0852f6f7830589b08116f64d2ceb",
-      "title": "Events",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/78af0852f6f7830589b08116f64d2ceb",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://f81f0852-f6f7-8214-8643-872566ecf8f7"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "414f0852f6f783dd88f881b229c0fd0d",
-      "title": "Habits",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/414f0852f6f783dd88f881b229c0fd0d",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://daaf0852-f6f7-83f2-bcb0-873526acaa91",
-        "collection://5d3f0852-f6f7-8300-a03e-07525357dde1"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "2fff0852f6f7832e8e630149445ee52e",
-      "title": "View of Interfaces",
-      "group": "life",
-      "kind": "view",
-      "url": "https://app.notion.com/p/2fff0852f6f7832e8e630149445ee52e",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://4fbf0852-f6f7-8330-a441-871611f750b7"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "fd5f0852f6f783ba94d581629a519da8",
-      "title": "AI Chat Logs (Ramo)",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/fd5f0852f6f783ba94d581629a519da8",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://0c2f0852-f6f7-83bc-b8a1-07625943424d"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "cf2f0852f6f782a7a3b8814116165157",
-      "title": "🔁 Echo Reminders (Ramo)",
-      "group": "life",
-      "kind": "database",
-      "url": "https://app.notion.com/p/cf2f0852f6f782a7a3b8814116165157",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://6a9f0852-f6f7-8221-b932-8724a13c1890"
-      ],
-      "status": "Schema available"
-    },
-    {
-      "id": "ecdf0852f6f7833d868a81b99117a308",
-      "title": "Core Agent",
-      "group": "life",
-      "kind": "page",
-      "url": "https://app.notion.com/p/ecdf0852f6f7833d868a81b99117a308",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "id": "bb4f0852f6f7825fab67817cae6f9a2f",
+      "title": "Travel",
+      "group": "travel",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/bb4f0852f6f7825fab67817cae6f9a2f",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "a1ef0852f6f78285a8c401c727da8197",
-      "title": "View of Travel Destinations (1)",
+      "title": "Untitled",
       "group": "travel",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/a1ef0852f6f78285a8c401c727da8197",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://7cbf0852-f6f7-82c1-ad33-871a5a44ebd9"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T15:38:07.526+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "9bff0852f6f7821a9a6001cbc9239d1a",
-      "title": "📍 Trips",
+      "title": "Trips",
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/9bff0852f6f7821a9a6001cbc9239d1a",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:33:22.432+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://ca6f0852-f6f7-832a-94be-070fa8053e43"
       ],
@@ -794,8 +376,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/f2bf0852f6f78282ae4b8157eaaa3b93",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:33:22.240+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://5dbf0852-f6f7-8311-9455-0757042654ea"
       ],
@@ -807,8 +389,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/358f0852f6f78300854581e1eecc34a3",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:33:22.274+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://2b1f0852-f6f7-8298-9c9e-0716e8a68586"
       ],
@@ -820,8 +402,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/b9af0852f6f78339baf401bed442067e",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:33:22.321+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://8a6f0852-f6f7-83cf-b52d-871ea2445021"
       ],
@@ -829,16 +411,26 @@
     },
     {
       "id": "9dbf0852f6f782b889eb01df7efb3b93",
-      "title": "🗓️ Travel Itinerary",
+      "title": "Travel Itinerary",
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/9dbf0852f6f782b889eb01df7efb3b93",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-05T03:07:50.935+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://4bcf0852-f6f7-83c5-a65a-070c21c94e4e"
       ],
       "status": "Schema available"
+    },
+    {
+      "id": "da4f0852f6f7836fa1e381ce7e7ec0d9",
+      "title": "My Cigar Collection",
+      "group": "collections",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/da4f0852f6f7836fa1e381ce7e7ec0d9",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "baef0852f6f78389ad20815b859a2b5b",
@@ -846,8 +438,8 @@
       "group": "collections",
       "kind": "database",
       "url": "https://app.notion.com/p/baef0852f6f78389ad20815b859a2b5b",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-05T03:00:29.350+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://010f0852-f6f7-82f1-871b-8753983712ff"
       ],
@@ -855,16 +447,14 @@
     },
     {
       "id": "5b3f0852f6f783b58f46017a38019fd7",
-      "title": "View of Cigar Tracking Log",
+      "title": "Untitled",
       "group": "collections",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/5b3f0852f6f783b58f46017a38019fd7",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://01ef0852-f6f7-83d9-896e-0743e54a3800"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:12:36.668+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "7d1f0852f6f7839ea36a01a3cdb84df9",
@@ -872,8 +462,9 @@
       "group": "collections",
       "kind": "page",
       "url": "https://app.notion.com/p/7d1f0852f6f7839ea36a01a3cdb84df9",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:12:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "884f0852f6f7835f999201b4f135d029",
@@ -881,8 +472,9 @@
       "group": "collections",
       "kind": "page",
       "url": "https://app.notion.com/p/884f0852f6f7835f999201b4f135d029",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:12:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "2eef0852f6f78243a1868199d04099d6",
@@ -890,8 +482,9 @@
       "group": "collections",
       "kind": "page",
       "url": "https://app.notion.com/p/2eef0852f6f78243a1868199d04099d6",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:12:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "c69f0852f6f78233962101b25c6e9f42",
@@ -899,8 +492,9 @@
       "group": "collections",
       "kind": "page",
       "url": "https://app.notion.com/p/c69f0852f6f78233962101b25c6e9f42",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:12:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "968f0852f6f782ebacde019236d91812",
@@ -908,8 +502,8 @@
       "group": "collections",
       "kind": "database",
       "url": "https://app.notion.com/p/968f0852f6f782ebacde019236d91812",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:12:36.917+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://f04f0852-f6f7-823a-ac45-878c3808b496"
       ],
@@ -921,8 +515,8 @@
       "group": "collections",
       "kind": "database",
       "url": "https://app.notion.com/p/ed0f0852f6f78327a635814d14c3a7a3",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:12:36.639+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://01ef0852-f6f7-83d9-896e-0743e54a3800"
       ],
@@ -930,16 +524,26 @@
     },
     {
       "id": "8f5f0852f6f783cdaf5e814d1211bbb5",
-      "title": "🏷️ Cigar Pricing",
+      "title": "Cigar Pricing",
       "group": "collections",
       "kind": "database",
       "url": "https://app.notion.com/p/8f5f0852f6f783cdaf5e814d1211bbb5",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:12:36.399+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://af6f0852-f6f7-8376-bbc6-07431319f9bc"
       ],
       "status": "Schema available"
+    },
+    {
+      "id": "410f0852f6f782c5bd7a811ad7a15eb0",
+      "title": "My Whisky Collection",
+      "group": "collections",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/410f0852f6f782c5bd7a811ad7a15eb0",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "2c0f0852f6f78395933801dcb48afe27",
@@ -947,8 +551,8 @@
       "group": "collections",
       "kind": "database",
       "url": "https://app.notion.com/p/2c0f0852f6f78395933801dcb48afe27",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:31:18.898+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://fe4f0852-f6f7-83e5-b839-073e43072300"
       ],
@@ -956,43 +560,38 @@
     },
     {
       "id": "574f0852f6f782b1993001b9ad401032",
-      "title": "Whiskey Purchases and View of Whiskey Database",
+      "title": "Whiskey Purchases",
       "group": "collections",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/574f0852f6f782b1993001b9ad401032",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:31:19.130+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
-        "collection://132f0852-f6f7-8222-90b9-871eaceed47f",
-        "collection://fe4f0852-f6f7-83e5-b839-073e43072300"
+        "collection://132f0852-f6f7-8222-90b9-871eaceed47f"
       ],
       "status": "Schema available"
     },
     {
       "id": "c0bf0852f6f7829898a081f2fb8f942a",
-      "title": "View of Whiskey Database",
+      "title": "Untitled",
       "group": "collections",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/c0bf0852f6f7829898a081f2fb8f942a",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://fe4f0852-f6f7-83e5-b839-073e43072300"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:31:19.200+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "973f0852f6f782689fba015e3ed7eddd",
-      "title": "View of Whiskey Database",
+      "title": "Untitled",
       "group": "collections",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/973f0852f6f782689fba015e3ed7eddd",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://fe4f0852-f6f7-83e5-b839-073e43072300"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:31:19.166+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "275f0852f6f782baae9001e2833bb46a",
@@ -1000,12 +599,22 @@
       "group": "collections",
       "kind": "database",
       "url": "https://app.notion.com/p/275f0852f6f782baae9001e2833bb46a",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:31:19.032+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://5baf0852-f6f7-838b-a69e-878a30ddc1d6"
       ],
       "status": "Schema available"
+    },
+    {
+      "id": "af6f0852f6f78380b1d1018b33de6531",
+      "title": "Nedbank",
+      "group": "work",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/af6f0852f6f78380b1d1018b33de6531",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "40cf0852f6f78280a513018be3707e4a",
@@ -1013,8 +622,8 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/40cf0852f6f78280a513018be3707e4a",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-05T04:41:10.432+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://4e1f0852-f6f7-83dc-8817-0723f72abc4d"
       ],
@@ -1026,8 +635,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/8e7f0852f6f783b78a4e81191ba6545b",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "717f0852f6f783ffbb33015aad3c610b",
@@ -1035,8 +645,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/717f0852f6f783ffbb33015aad3c610b",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "6f6f0852f6f7835a9a0981b6c59729aa",
@@ -1044,8 +655,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/6f6f0852f6f7835a9a0981b6c59729aa",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "98ff0852f6f7826ba1848129c7e1cbae",
@@ -1053,8 +665,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/98ff0852f6f7826ba1848129c7e1cbae",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "325f0852f6f783e9b2d8019e6152332b",
@@ -1062,8 +675,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/325f0852f6f783e9b2d8019e6152332b",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "ee3f0852f6f7835294a201d4cd8d5657",
@@ -1071,8 +685,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/ee3f0852f6f7835294a201d4cd8d5657",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1a5f0852f6f78291b0ac01be5eaee88b",
@@ -1080,8 +695,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/1a5f0852f6f78291b0ac01be5eaee88b",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "2b1f0852f6f783f895ed81bdaa48c212",
@@ -1089,8 +705,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/2b1f0852f6f783f895ed81bdaa48c212",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "17ff0852f6f782459bb0012279913799",
@@ -1098,8 +715,8 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/17ff0852f6f782459bb0012279913799",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:37.149+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://9e7f0852-f6f7-831f-9bb8-87463de89ffd"
       ],
@@ -1111,8 +728,8 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/efaf0852f6f783f98815011dfcf1af3f",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:37.189+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://932f0852-f6f7-837a-93fa-87843b29667e"
       ],
@@ -1124,8 +741,8 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/8f2f0852f6f782b286890180a44fc6d1",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:37.226+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://a54f0852-f6f7-8201-9a34-0785d88d9d43"
       ],
@@ -1137,8 +754,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/00ff0852f6f7839886f281499f1a4bc1",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "90af0852f6f782ada0ad01161187bb2c",
@@ -1146,8 +764,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/90af0852f6f782ada0ad01161187bb2c",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "a43f0852f6f7821bae5a010bec0b22b9",
@@ -1155,8 +774,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/a43f0852f6f7821bae5a010bec0b22b9",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "bd5f0852f6f7828c981481f2e0427c50",
@@ -1164,8 +784,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/bd5f0852f6f7828c981481f2e0427c50",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "4cdf0852f6f782beb84d81efe3cd67c0",
@@ -1173,8 +794,8 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/4cdf0852f6f782beb84d81efe3cd67c0",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:37.262+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://20ef0852-f6f7-82a9-bd88-87d0d4f7d1fc"
       ],
@@ -1186,8 +807,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/a13f0852f6f78286b5a3014aa23906fe",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "248f0852f6f7827db0a801d13c479002",
@@ -1195,8 +817,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/248f0852f6f7827db0a801d13c479002",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "aabf0852f6f78285a8f301eb35140c6f",
@@ -1204,8 +827,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/aabf0852f6f78285a8f301eb35140c6f",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "004f0852f6f783a68911010a854310d2",
@@ -1213,8 +837,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/004f0852f6f783a68911010a854310d2",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "de3f0852f6f78266a14481ff83045137",
@@ -1222,8 +847,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/de3f0852f6f78266a14481ff83045137",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "578f0852f6f7820687e18107e48442b1",
@@ -1231,8 +857,9 @@
       "group": "work",
       "kind": "page",
       "url": "https://app.notion.com/p/578f0852f6f7820687e18107e48442b1",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "16ef0852f6f783739de781bb5a2f332a",
@@ -1240,8 +867,8 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/16ef0852f6f783739de781bb5a2f332a",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:36.788+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://bfef0852-f6f7-83b5-b3cd-87f9ca3d6981"
       ],
@@ -1253,8 +880,8 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/512f0852f6f7835f9b7881e8fc1fc1bc",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:36.829+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://ec8f0852-f6f7-83d8-bf21-878e07f08e2e"
       ],
@@ -1266,8 +893,8 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/4b3f0852f6f782e493d30142b110803a",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:36.870+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://d1cf0852-f6f7-8215-9e4d-87cade0c2eea"
       ],
@@ -1279,12 +906,22 @@
       "group": "work",
       "kind": "database",
       "url": "https://app.notion.com/p/d04f0852f6f78385951d01fb9baadb18",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:42:36.909+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://22ef0852-f6f7-8310-993d-072647d8b1d1"
       ],
       "status": "Schema available"
+    },
+    {
+      "id": "fa1f0852f6f7820e9b040129dce7287e",
+      "title": "Open Engine",
+      "group": "systems",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/fa1f0852f6f7820e9b040129dce7287e",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "d63f0852f6f7836dabfc814ff7b9d42a",
@@ -1292,8 +929,8 @@
       "group": "systems",
       "kind": "database",
       "url": "https://app.notion.com/p/d63f0852f6f7836dabfc814ff7b9d42a",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:40:40.638+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://5f1f0852-f6f7-8241-9c91-87e96c79770a"
       ],
@@ -1305,8 +942,8 @@
       "group": "systems",
       "kind": "database",
       "url": "https://app.notion.com/p/282f0852f6f7836abeaa012b946ff9be",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:40:40.670+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://03cf0852-f6f7-83d3-a5fb-87aced5ae0e8"
       ],
@@ -1318,8 +955,9 @@
       "group": "systems",
       "kind": "page",
       "url": "https://app.notion.com/p/435f0852f6f78372a60501889d101f98",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:40:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "568f0852f6f78348a98601de664c5767",
@@ -1327,8 +965,9 @@
       "group": "systems",
       "kind": "page",
       "url": "https://app.notion.com/p/568f0852f6f78348a98601de664c5767",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:40:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "15cf0852f6f7822db25f01d629a4f60c",
@@ -1336,8 +975,9 @@
       "group": "systems",
       "kind": "page",
       "url": "https://app.notion.com/p/15cf0852f6f7822db25f01d629a4f60c",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:40:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "d9ff0852f6f783b5ac0d013de90ebbf4",
@@ -1345,17 +985,28 @@
       "group": "systems",
       "kind": "page",
       "url": "https://app.notion.com/p/d9ff0852f6f783b5ac0d013de90ebbf4",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:40:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
+    },
+    {
+      "id": "40ef0852f6f7800c9eace5ec7ee7d621",
+      "title": "Mothership",
+      "group": "personal",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/40ef0852f6f7800c9eace5ec7ee7d621",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "40ef0852f6f78026ae5bf33b41423959",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/40ef0852f6f78026ae5bf33b41423959",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:55:03.693+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1363,10 +1014,10 @@
       "id": "40ef0852f6f78063948aef7c54304341",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/40ef0852f6f78063948aef7c54304341",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:55:03.693+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1374,10 +1025,10 @@
       "id": "40ef0852f6f78079aa7bd6a629253add",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/40ef0852f6f78079aa7bd6a629253add",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:55:03.693+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1385,10 +1036,10 @@
       "id": "40ef0852f6f780c0be73df7b1f71d326",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/40ef0852f6f780c0be73df7b1f71d326",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:55:03.693+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1396,10 +1047,10 @@
       "id": "40ef0852f6f780e2a588e557a1ab65e7",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/40ef0852f6f780e2a588e557a1ab65e7",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:55:03.693+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1407,10 +1058,10 @@
       "id": "40ef0852f6f780649a3cd9b0bd079711",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/40ef0852f6f780649a3cd9b0bd079711",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:55:03.693+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1418,12 +1069,22 @@
       "id": "40ef0852f6f780bc8671f4dde978b65a",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/40ef0852f6f780bc8671f4dde978b65a",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:55:03.693+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
+    },
+    {
+      "id": "1dbf0852f6f780c3aa2fdf0cda658164",
+      "title": "Perfect Year Life OS | Essential Edition",
+      "group": "life",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/1dbf0852f6f780c3aa2fdf0cda658164",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f78185817fd287cc6cea26",
@@ -1431,8 +1092,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f78185817fd287cc6cea26",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f781b899b8c81234d14d85",
@@ -1440,8 +1102,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f781b899b8c81234d14d85",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f781958537cc6272e67395",
@@ -1449,8 +1112,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f781958537cc6272e67395",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f78121906ae17a5d4a1dd7",
@@ -1458,8 +1122,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/1dbf0852f6f78121906ae17a5d4a1dd7",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2025-04-20T12:33:40.555+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://1dbf0852-f6f7-81b9-aa34-000b31e336ea"
       ],
@@ -1471,8 +1135,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/1dbf0852f6f7819695efcdda93b9f5ec",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2025-04-20T12:33:40.555+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://1dbf0852-f6f7-81f7-81b3-000b17e9a4d1"
       ],
@@ -1484,8 +1148,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/1dbf0852f6f781a9bb5ed70f4e5bb08b",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2025-04-20T12:33:40.555+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://1dbf0852-f6f7-8180-9aac-000bd8c74aa9"
       ],
@@ -1497,8 +1161,8 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/1dbf0852f6f78168803dea31c82a6ba3",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2025-04-20T12:33:40.555+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://1dbf0852-f6f7-8174-9c4f-000ba68dd3c5"
       ],
@@ -1510,8 +1174,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f78191b212e8075dc56e43",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f781f9a386d3e8c5883690",
@@ -1519,8 +1184,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f781f9a386d3e8c5883690",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f7810ca753de0948af990a",
@@ -1528,8 +1194,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f7810ca753de0948af990a",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f7813cbe0dc87d89f43f91",
@@ -1537,8 +1204,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f7813cbe0dc87d89f43f91",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f7818397e3d5bb92c78cfe",
@@ -1546,8 +1214,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f7818397e3d5bb92c78cfe",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f78180894fd5ea681ab1bb",
@@ -1555,8 +1224,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f78180894fd5ea681ab1bb",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f7816d8116e85d3b0ea512",
@@ -1564,8 +1234,9 @@
       "group": "life",
       "kind": "page",
       "url": "https://app.notion.com/p/1dbf0852f6f7816d8116e85d3b0ea512",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2025-04-20T12:33:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "1dbf0852f6f781499cb4d513f63818f1",
@@ -1573,21 +1244,44 @@
       "group": "life",
       "kind": "database",
       "url": "https://app.notion.com/p/1dbf0852f6f781499cb4d513f63818f1",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2025-04-20T12:33:40.555+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://1dbf0852-f6f7-81c0-91e2-000b0b2967d9"
       ],
       "status": "Schema available"
     },
     {
+      "id": "b69f0852f6f782aca5468135a70916a5",
+      "title": "My Year",
+      "group": "personal",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/b69f0852f6f782aca5468135a70916a5",
+      "edited": "2026-11-05T04:42:09.460+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [
+        "collection://3c0f0852-f6f7-829b-b537-0757c1ba5f89"
+      ],
+      "status": "Schema available"
+    },
+    {
+      "id": "2adf0852f6f7829f98c101a540a5281e",
+      "title": "Achievement Blueprint",
+      "group": "personal",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/2adf0852f6f7829f98c101a540a5281e",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
+    },
+    {
       "id": "235f0852f6f783958f5781ad605d9e5a",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/235f0852f6f783958f5781ad605d9e5a",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.275+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1595,10 +1289,10 @@
       "id": "039f0852f6f78205bc35812221f42331",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/039f0852f6f78205bc35812221f42331",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.440+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1606,10 +1300,10 @@
       "id": "765f0852f6f782fe9fb7011102fb6ec1",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/765f0852f6f782fe9fb7011102fb6ec1",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.336+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1617,10 +1311,10 @@
       "id": "321f0852f6f782a086a90197208942c0",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/321f0852f6f782a086a90197208942c0",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.578+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1628,10 +1322,10 @@
       "id": "404f0852f6f782efa4e201e1a5e40a50",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/404f0852f6f782efa4e201e1a5e40a50",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.180+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1639,10 +1333,10 @@
       "id": "8b8f0852f6f7821881d50156d9f8b42e",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/8b8f0852f6f7821881d50156d9f8b42e",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.219+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1650,10 +1344,10 @@
       "id": "e10f0852f6f7831a9d1981b18017362d",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/e10f0852f6f7831a9d1981b18017362d",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.616+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1661,10 +1355,10 @@
       "id": "d18f0852f6f78387845a81d26d323333",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/d18f0852f6f78387845a81d26d323333",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.389+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1672,10 +1366,10 @@
       "id": "ff2f0852f6f7820ab22981cac9701b42",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/ff2f0852f6f7820ab22981cac9701b42",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.543+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
     },
@@ -1683,12 +1377,22 @@
       "id": "f97f0852f6f78289b39201ee226b1408",
       "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/f97f0852f6f78289b39201ee226b1408",
-      "evidence": "Fetched structure",
-      "edited": null,
+      "edited": "2026-11-04T04:57:48.487+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [],
       "status": "No connected source returned"
+    },
+    {
+      "id": "6eff0852f6f782e18ac7010fc4bd8906",
+      "title": "Maru Spaces’ Teamspace",
+      "group": "business",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/6eff0852f6f782e18ac7010fc4bd8906",
+      "edited": "2026-11-05T04:42:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "4a9f0852f6f7827a8f9181f221b1cf6c",
@@ -1696,8 +1400,9 @@
       "group": "business",
       "kind": "page",
       "url": "https://app.notion.com/p/4a9f0852f6f7827a8f9181f221b1cf6c",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:52:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "0cef0852f6f78343b9ea01c28c4f6249",
@@ -1705,8 +1410,9 @@
       "group": "business",
       "kind": "page",
       "url": "https://app.notion.com/p/0cef0852f6f78343b9ea01c28c4f6249",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:52:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "463f0852f6f78343a8b20141cce72aed",
@@ -1714,8 +1420,9 @@
       "group": "business",
       "kind": "page",
       "url": "https://app.notion.com/p/463f0852f6f78343a8b20141cce72aed",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:52:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "2b5f0852f6f783c7ae1301751c2ccf3e",
@@ -1723,8 +1430,9 @@
       "group": "business",
       "kind": "page",
       "url": "https://app.notion.com/p/2b5f0852f6f783c7ae1301751c2ccf3e",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:52:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "babf0852f6f783f3b1e38117a2195cb2",
@@ -1732,99 +1440,106 @@
       "group": "business",
       "kind": "page",
       "url": "https://app.notion.com/p/babf0852f6f783f3b1e38117a2195cb2",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:52:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
+    },
+    {
+      "id": "865f0852f6f782b8a3a2819ee4532513",
+      "title": "Home",
+      "group": "personal",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/865f0852f6f782b8a3a2819ee4532513",
+      "edited": "2026-11-04T04:43:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "4fef0852f6f7823ba5ae01199966986d",
-      "title": "View of Areas",
+      "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/4fef0852f6f7823ba5ae01199966986d",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://2b3f0852-f6f7-8321-ba8b-07ab30d3ea54"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:43:26.412+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "350f0852f6f783ec919401e9a5aff96b",
-      "title": "View of Future Visions",
+      "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/350f0852f6f783ec919401e9a5aff96b",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://2a4f0852-f6f7-8254-86ff-87112a90e6a2"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:43:26.479+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "001f0852f6f7822883eb813d0c5f7773",
-      "title": "View of Goals",
+      "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/001f0852f6f7822883eb813d0c5f7773",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://2e7f0852-f6f7-82cb-a722-87a8f5be9fee"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:43:26.446+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "4abf0852f6f783e18f2f81fd21c3f08a",
-      "title": "View of Resources",
+      "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/4abf0852f6f783e18f2f81fd21c3f08a",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://824f0852-f6f7-82e7-b5f9-87eb0cb615f8"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:43:26.138+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "1bff0852f6f782f492c8017efca40b87",
-      "title": "View of Tasks",
+      "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/1bff0852f6f782f492c8017efca40b87",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://326f0852-f6f7-82b3-8e38-079684809f5b"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:43:26.268+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "1e1f0852f6f7839f9da601c796807a69",
-      "title": "View of Notes",
+      "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/1e1f0852f6f7839f9da601c796807a69",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://754f0852-f6f7-8212-bf45-87c8afa9af00"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:43:26.224+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
     },
     {
       "id": "766f0852f6f7823b9eb501d6f3aecd69",
-      "title": "View of Projects",
+      "title": "Untitled",
       "group": "personal",
-      "kind": "view",
+      "kind": "database",
       "url": "https://app.notion.com/p/766f0852f6f7823b9eb501d6f3aecd69",
-      "evidence": "Fetched structure",
-      "edited": null,
-      "sources": [
-        "collection://c1ff0852-f6f7-834b-8330-876770257413"
-      ],
-      "status": "Schema available"
+      "edited": "2026-11-04T04:43:26.190+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [],
+      "status": "No connected source returned"
+    },
+    {
+      "id": "810f0852f6f78261ac550155839b7429",
+      "title": "Ka'ching — Standing Classification Rules",
+      "group": "finance",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/810f0852f6f78261ac550155839b7429",
+      "edited": "2026-11-05T04:48:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "405f0852f6f783e8a7b0014d6e211aa7",
@@ -1832,8 +1547,9 @@
       "group": "finance",
       "kind": "page",
       "url": "https://app.notion.com/p/405f0852f6f783e8a7b0014d6e211aa7",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:51:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
     },
     {
       "id": "c5af0852f6f782108f3401566be4a9e4",
@@ -1841,8 +1557,35 @@
       "group": "finance",
       "kind": "page",
       "url": "https://app.notion.com/p/c5af0852f6f782108f3401566be4a9e4",
-      "evidence": "Reference on entry page",
-      "edited": null
+      "edited": "2026-11-04T04:51:00.000Z",
+      "evidence": "Checked with Notion API",
+      "sources": []
+    },
+    {
+      "id": "9f0f0852f6f783a8bfbd815e14c9e8b8",
+      "title": "Ka'ching — AI Chat Logs",
+      "group": "finance",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/9f0f0852f6f783a8bfbd815e14c9e8b8",
+      "edited": "2026-11-05T04:48:26.701+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [
+        "collection://b3bf0852-f6f7-8316-adcc-0737d3620590"
+      ],
+      "status": "Schema available"
+    },
+    {
+      "id": "fe4f0852f6f7838f8ea8010370c65fba",
+      "title": "Personal Finance Recon",
+      "group": "finance",
+      "kind": "entry",
+      "url": "https://app.notion.com/p/fe4f0852f6f7838f8ea8010370c65fba",
+      "edited": "2026-11-05T04:48:26.701+00:00",
+      "evidence": "Checked with Notion API",
+      "sources": [
+        "collection://9c6f0852-f6f7-833a-8b65-875d9fe49e02"
+      ],
+      "status": "Schema available"
     },
     {
       "id": "318f0852f6f783c7844b81ec9e20284b",
@@ -1850,7 +1593,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/318f0852f6f783c7844b81ec9e20284b",
-      "evidence": "Fetched database schema",
+      "edited": "2026-11-05T05:00:59.115+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://7cbf0852-f6f7-82c1-ad33-871a5a44ebd9"
       ],
@@ -1862,7 +1606,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/1edf0852f6f782dfa3ee8188b6e27549",
-      "evidence": "Fetched database schema",
+      "edited": "2026-11-05T05:00:59.115+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://ad0f0852-f6f7-8387-8c23-87f4cf160c07"
       ],
@@ -1874,7 +1619,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/db7f0852f6f782168ea78171580edb46",
-      "evidence": "Fetched database schema",
+      "edited": "2026-11-05T05:00:59.115+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://120f0852-f6f7-821d-a59b-87fa1202a112"
       ],
@@ -1886,7 +1632,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/234f0852f6f78236a2c681b71e637771",
-      "evidence": "Fetched database schema",
+      "edited": "2026-11-05T05:00:59.115+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://8fbf0852-f6f7-8228-80d5-07acb2d8ce5d"
       ],
@@ -1898,7 +1645,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/a52f0852f6f782119e8601791ca5b742",
-      "evidence": "Fetched database schema",
+      "edited": "2026-11-05T05:00:59.115+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://462f0852-f6f7-8247-99a9-071e951f5395"
       ],
@@ -1910,7 +1658,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/ef3f0852f6f783b7908381d8dc172a0b",
-      "evidence": "Fetched database schema",
+      "edited": "2026-11-05T05:00:59.115+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://48af0852-f6f7-82a9-bb59-8708372729ba"
       ],
@@ -1922,7 +1671,8 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/a33f0852f6f7827c93828198742a310b",
-      "evidence": "Fetched database schema",
+      "edited": "2026-11-05T05:00:59.115+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://be9f0852-f6f7-835d-9732-87e84d118121"
       ],
@@ -1934,496 +1684,83 @@
       "group": "travel",
       "kind": "database",
       "url": "https://app.notion.com/p/1a3f0852f6f783adaba601375c71a836",
-      "evidence": "Fetched database schema",
+      "edited": "2026-11-05T05:00:59.115+00:00",
+      "evidence": "Checked with Notion API",
       "sources": [
         "collection://379f0852-f6f7-82e8-86ec-075727f55b45"
       ],
       "status": "Schema available"
     },
     {
-      "id": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "title": "AI Chat Logs (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:224dbcd4-ec9c-8006-9b98-000b689dc9d8",
-      "title": "Transactions (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:fb4467da-21cc-49b6-b2f6-1a2adb96ccf2",
-      "title": "Marketing Content (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:a07f0852-f6f7-8364-9113-07ea21165718",
-      "title": "Person (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "title": "Marketing Content (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:246f0852-f6f7-83e9-8b41-075b06780864",
+      "id": "outside:246f0852f6f783e98b41075b06780864",
       "title": "Checklist Item (outside snapshot)",
       "group": "life",
       "kind": "external",
       "url": null,
-      "evidence": "Relation target named by property; target not fetched",
+      "evidence": "Relation target named by schema; target outside mapped scope",
       "status": "Outside snapshot"
     },
     {
-      "id": "outside:64068b14-28a8-446c-b867-236135411223",
-      "title": "Content (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:007f0852-f6f7-82c7-95f8-079c97f7a36b",
+      "id": "outside:007f0852f6f782c795f8079c97f7a36b",
       "title": "Google Drive (outside snapshot)",
       "group": "life",
       "kind": "external",
       "url": null,
-      "evidence": "Relation target named by property; target not fetched",
+      "evidence": "Relation target named by schema; target outside mapped scope",
       "status": "Outside snapshot"
     },
     {
-      "id": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "title": "System Builds (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:f1508b09-9ae2-4381-9448-9f1c0214bf30",
-      "title": "Component Library (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:224dbcd4-ec9c-802f-a492-000bac06b571",
-      "title": "Accounts (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:3ace9c2c-8fa4-4ddb-83d5-5e35e3d033a1",
-      "title": "Agent Tasks (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:c005e5fb-f304-459d-9485-e51cd3568bc2",
-      "title": "Arc (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-8137-9fda-000b5f73216a",
-      "title": "Areas (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:2c5dbcd4-ec9c-805e-bddc-000be7a8caa6",
-      "title": "Change Log (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:80bb07a5-71ca-4a13-a0ea-8fdbfb3cd7b1",
-      "title": "Component Library (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-81c8-884c-000b321c241e",
-      "title": "Contacts (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:216dbcd4-ec9c-8152-9091-000bbeee80e9",
-      "title": "Content (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1f4dbcd4-ec9c-810f-ac2f-000b3dab209d",
-      "title": "Deals (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:cce56920-6406-4847-8536-7abd61aeb2a6",
-      "title": "Episodic Memory (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-811a-b302-000b77245de0",
-      "title": "Events (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-81de-bb31-000bb8c5d527",
-      "title": "Future Vision (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-811f-bd6d-000b571f01a8",
-      "title": "Goals (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-81b4-83d2-000bb2209e2e",
-      "title": "Jobs (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:216dbcd4-ec9c-80b8-a082-000b564a91ab",
-      "title": "Keywords (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:203dbcd4-ec9c-817c-a161-000b440b7684",
-      "title": "Master Keyword List (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-814c-a19c-000bc3a75039",
-      "title": "Meeting Notes (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:2a3dbcd4-ec9c-80a0-91f4-000b16c6d9a1",
-      "title": "Modes (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-81eb-b2d2-000b8aa14410",
-      "title": "Notes (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-8105-8d7c-000bae685028",
-      "title": "Organisations (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:9fe5a881-82d4-40e7-8501-ab5eccda1e5b",
-      "title": "Procedural Memory (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:254dbcd4-ec9c-81bd-b305-000bc53fae13",
-      "title": "Projects (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:a427817b-3455-4b3c-a96c-0d0687b0a285",
-      "title": "Prospective Memory (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:2d80fdb7-8aa7-4f3b-9d03-ee85c75d4346",
-      "title": "Recurring Reminders (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-81e7-a676-000b05502fa7",
-      "title": "Resources (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:7339de7f-3bbb-4d5b-acfd-147cbf725207",
-      "title": "Semantic Memory (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1f4dbcd4-ec9c-80fa-ae6b-000b2f3beb45",
-      "title": "Service Type (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-81b2-8caa-000bbc270488",
-      "title": "Tags (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-81f6-bc39-000b6e052fee",
-      "title": "Tasks (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:203dbcd4-ec9c-803a-b4ee-000ba8b67834",
-      "title": "Topic Ideas (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-8160-b468-000bd6dde110",
-      "title": "Weekly Review (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:1dddbcd4-ec9c-8097-be99-000b6ab34cc6",
-      "title": "Wiki (VOOH) (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:b8649d2c-5d79-4367-a8d2-b58b84728bbd",
-      "title": "⭐ Foundational Experience Output (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:9beb83db-43db-4c3c-9737-463494925129",
-      "title": "🛠️ Skills (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:41b306cf-838c-4f40-a129-93e95f7cc345",
-      "title": "🧠 Echo's Memory (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:8dcf0852-f6f7-8216-b7d9-07d31842824a",
-      "title": "Checklist Item (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:6a4f0852-f6f7-8382-b938-0724fa3d475d",
-      "title": "Google Drive (outside snapshot)",
-      "group": "life",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:777f0852-f6f7-8277-a02f-87d4b99dc950",
-      "title": "2021 Goal Overview (outside snapshot)",
-      "group": "work",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:2b9f0852-f6f7-8217-a35d-0774d8ad42bd",
-      "title": "Linked to? (outside snapshot)",
-      "group": "work",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:860f0852-f6f7-8294-89ad-0740e144b4b4",
-      "title": "Related to Gareth’s projects (My Nedbank Timeline.) (outside snapshot)",
-      "group": "work",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:ebbf0852-f6f7-82f6-a40f-8767cced018d",
-      "title": "Related to Gareth’s projects (My Nedbank Timeline.) 1 (outside snapshot)",
-      "group": "work",
-      "kind": "external",
-      "url": null,
-      "evidence": "Relation target named by property; target not fetched",
-      "status": "Outside snapshot"
-    },
-    {
-      "id": "outside:b9bf0852-f6f7-820e-9785-87692f8a87bc",
+      "id": "outside:b9bf0852f6f7820e978587692f8a87bc",
       "title": "Related to Sipho’s projects (My Nedbank Timeline.) (outside snapshot)",
       "group": "work",
       "kind": "external",
       "url": null,
-      "evidence": "Relation target named by property; target not fetched",
+      "evidence": "Relation target named by schema; target outside mapped scope",
       "status": "Outside snapshot"
     },
     {
-      "id": "outside:1d1dbcd4-ec9c-8105-ac43-000b79345560",
-      "title": "Delegate (outside snapshot)",
-      "group": "life",
+      "id": "outside:2b9f0852f6f78217a35d0774d8ad42bd",
+      "title": "Linked to? (outside snapshot)",
+      "group": "work",
       "kind": "external",
       "url": null,
-      "evidence": "Relation target named by property; target not fetched",
+      "evidence": "Relation target named by schema; target outside mapped scope",
       "status": "Outside snapshot"
     },
     {
-      "id": "outside:1dbf0852-f6f7-813f-92a2-000bac9b5226",
+      "id": "outside:860f0852f6f7829489ad0740e144b4b4",
+      "title": "Related to Gareth’s projects (My Nedbank Timeline.) (outside snapshot)",
+      "group": "work",
+      "kind": "external",
+      "url": null,
+      "evidence": "Relation target named by schema; target outside mapped scope",
+      "status": "Outside snapshot"
+    },
+    {
+      "id": "outside:ebbf0852f6f782f6a40f8767cced018d",
+      "title": "Related to Gareth’s projects (My Nedbank Timeline.) 1 (outside snapshot)",
+      "group": "work",
+      "kind": "external",
+      "url": null,
+      "evidence": "Relation target named by schema; target outside mapped scope",
+      "status": "Outside snapshot"
+    },
+    {
+      "id": "outside:777f0852f6f78277a02f87d4b99dc950",
+      "title": "2021 Goal Overview (outside snapshot)",
+      "group": "work",
+      "kind": "external",
+      "url": null,
+      "evidence": "Relation target named by schema; target outside mapped scope",
+      "status": "Outside snapshot"
+    },
+    {
+      "id": "outside:1dbf0852f6f7813f92a2000bac9b5226",
       "title": "Google Drive (outside snapshot)",
       "group": "life",
       "kind": "external",
       "url": null,
-      "evidence": "Relation target named by property; target not fetched",
+      "evidence": "Relation target named by schema; target outside mapped scope",
       "status": "Outside snapshot"
     }
   ],
@@ -2551,132 +1888,6 @@
     {
       "source": "29ff0852f6f782eeb81301ea9ed966f4",
       "target": "705f0852f6f7820680e601131f455f54",
-      "type": "reference",
-      "label": "Page reference"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "7b2f0852f6f783178fdd01154ee6a947",
-      "type": "reference",
-      "label": "Page reference"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "f13f0852f6f78231ad508166fff3fab1",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "850f0852f6f78295bb9601b819074c1f",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "738f0852f6f78307aa9181566ab33219",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "fa8f0852f6f783a89eef0142ee24beb1",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "709f0852f6f783b689950199e11b1609",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "9def0852f6f782ed9abc8176ebf70345",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "78af0852f6f7830589b08116f64d2ceb",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "414f0852f6f783dd88f881b229c0fd0d",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "2fff0852f6f7832e8e630149445ee52e",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "fd5f0852f6f783ba94d581629a519da8",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "cf2f0852f6f782a7a3b8814116165157",
-      "type": "reference",
-      "label": "Database embedded or referenced"
-    },
-    {
-      "source": "ec6f0852f6f782b7817a812e37659b66",
-      "target": "ecdf0852f6f7833d868a81b99117a308",
       "type": "reference",
       "label": "Page reference"
     },
@@ -3278,19 +2489,13 @@
       "source": "469f0852f6f78246ad2c81e3d63b80b7",
       "target": "469f0852f6f78246ad2c81e3d63b80b7",
       "type": "relation",
-      "label": "Child Interface"
+      "label": "Parent Interface"
     },
     {
       "source": "469f0852f6f78246ad2c81e3d63b80b7",
       "target": "469f0852f6f78246ad2c81e3d63b80b7",
       "type": "relation",
-      "label": "Parent Interface"
-    },
-    {
-      "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat Logs"
+      "label": "Child Interface"
     },
     {
       "source": "d0ef0852f6f782f986aa01802db304b0",
@@ -3300,45 +2505,9 @@
     },
     {
       "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
+      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
       "type": "relation",
-      "label": "Contacts"
-    },
-    {
-      "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "4daf0852f6f783bdbde5817464decfa2",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
+      "label": "Tasks"
     },
     {
       "source": "d0ef0852f6f782f986aa01802db304b0",
@@ -3354,27 +2523,57 @@
     },
     {
       "source": "d0ef0852f6f782f986aa01802db304b0",
+      "target": "9faf0852f6f7822da89381a62caf9136",
+      "type": "relation",
+      "label": "Future Vision"
+    },
+    {
+      "source": "d0ef0852f6f782f986aa01802db304b0",
       "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
       "type": "relation",
       "label": "Resources"
     },
     {
       "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "target": "3a7f0852f6f7834bb01e01d9c8232903",
       "type": "relation",
-      "label": "Tasks"
+      "label": "Notes"
     },
     {
       "source": "d0ef0852f6f782f986aa01802db304b0",
-      "target": "outside:224dbcd4-ec9c-8006-9b98-000b689dc9d8",
+      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
       "type": "relation",
-      "label": "Transactions"
+      "label": "Habits"
+    },
+    {
+      "source": "d0ef0852f6f782f986aa01802db304b0",
+      "target": "4daf0852f6f783bdbde5817464decfa2",
+      "type": "relation",
+      "label": "Events"
+    },
+    {
+      "source": "d0ef0852f6f782f986aa01802db304b0",
+      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
+      "type": "relation",
+      "label": "Contacts"
+    },
+    {
+      "source": "d0ef0852f6f782f986aa01802db304b0",
+      "target": "609f0852f6f78315b71f81d5d273c13e",
+      "type": "relation",
+      "label": "Goals"
+    },
+    {
+      "source": "d0ef0852f6f782f986aa01802db304b0",
+      "target": "c5af0852f6f7828080a581279bebaf0d",
+      "type": "relation",
+      "label": "Meeting Notes"
     },
     {
       "source": "9faf0852f6f7822da89381a62caf9136",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
+      "target": "3b6f0852f6f78374854581df2e3c0078",
       "type": "relation",
-      "label": "AI Chat logs"
+      "label": "Projects"
     },
     {
       "source": "9faf0852f6f7822da89381a62caf9136",
@@ -3384,45 +2583,9 @@
     },
     {
       "source": "9faf0852f6f7822da89381a62caf9136",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "9faf0852f6f7822da89381a62caf9136",
       "target": "609f0852f6f78315b71f81d5d273c13e",
       "type": "relation",
       "label": "Goals"
-    },
-    {
-      "source": "9faf0852f6f7822da89381a62caf9136",
-      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "9faf0852f6f7822da89381a62caf9136",
-      "target": "outside:fb4467da-21cc-49b6-b2f6-1a2adb96ccf2",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "9faf0852f6f7822da89381a62caf9136",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "9faf0852f6f7822da89381a62caf9136",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "9faf0852f6f7822da89381a62caf9136",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Projects"
     },
     {
       "source": "9faf0852f6f7822da89381a62caf9136",
@@ -3432,51 +2595,33 @@
     },
     {
       "source": "9faf0852f6f7822da89381a62caf9136",
+      "target": "d0ef0852f6f782f986aa01802db304b0",
+      "type": "relation",
+      "label": "Areas"
+    },
+    {
+      "source": "9faf0852f6f7822da89381a62caf9136",
+      "target": "3a7f0852f6f7834bb01e01d9c8232903",
+      "type": "relation",
+      "label": "Notes"
+    },
+    {
+      "source": "9faf0852f6f7822da89381a62caf9136",
       "target": "4c3f0852f6f7835d8c99017f82fb3b99",
       "type": "relation",
       "label": "Tasks"
     },
     {
-      "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
+      "source": "9faf0852f6f7822da89381a62caf9136",
+      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
       "type": "relation",
-      "label": "AI Chat logs"
+      "label": "Habits"
     },
     {
-      "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "18df0852f6f782d3a14e01933039effa",
+      "source": "9faf0852f6f7822da89381a62caf9136",
+      "target": "c5af0852f6f7828080a581279bebaf0d",
       "type": "relation",
-      "label": "AI Chat logs (Ramo)"
-    },
-    {
-      "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Area"
-    },
-    {
-      "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Blocked by"
-    },
-    {
-      "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Blocking"
-    },
-    {
-      "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Child Goal"
-    },
-    {
-      "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Future Vision"
+      "label": "Meeting Notes"
     },
     {
       "source": "609f0852f6f78315b71f81d5d273c13e",
@@ -3486,9 +2631,21 @@
     },
     {
       "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "outside:fb4467da-21cc-49b6-b2f6-1a2adb96ccf2",
+      "target": "3b6f0852f6f78374854581df2e3c0078",
       "type": "relation",
-      "label": "Marketing Content"
+      "label": "Projects"
+    },
+    {
+      "source": "609f0852f6f78315b71f81d5d273c13e",
+      "target": "609f0852f6f78315b71f81d5d273c13e",
+      "type": "relation",
+      "label": "Blocking"
+    },
+    {
+      "source": "609f0852f6f78315b71f81d5d273c13e",
+      "target": "d0ef0852f6f782f986aa01802db304b0",
+      "type": "relation",
+      "label": "Area"
     },
     {
       "source": "609f0852f6f78315b71f81d5d273c13e",
@@ -3506,67 +2663,37 @@
       "source": "609f0852f6f78315b71f81d5d273c13e",
       "target": "609f0852f6f78315b71f81d5d273c13e",
       "type": "relation",
+      "label": "Blocked by"
+    },
+    {
+      "source": "609f0852f6f78315b71f81d5d273c13e",
+      "target": "9faf0852f6f7822da89381a62caf9136",
+      "type": "relation",
+      "label": "Future Vision"
+    },
+    {
+      "source": "609f0852f6f78315b71f81d5d273c13e",
+      "target": "609f0852f6f78315b71f81d5d273c13e",
+      "type": "relation",
       "label": "Parent Goal"
     },
     {
       "source": "609f0852f6f78315b71f81d5d273c13e",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
+      "target": "609f0852f6f78315b71f81d5d273c13e",
       "type": "relation",
-      "label": "Projects"
+      "label": "Child Goal"
+    },
+    {
+      "source": "609f0852f6f78315b71f81d5d273c13e",
+      "target": "18df0852f6f782d3a14e01933039effa",
+      "type": "relation",
+      "label": "AI Chat logs (Ramo)"
     },
     {
       "source": "609f0852f6f78315b71f81d5d273c13e",
       "target": "4c3f0852f6f7835d8c99017f82fb3b99",
       "type": "relation",
       "label": "Tasks"
-    },
-    {
-      "source": "2b0f0852f6f7836a99190139d2ae2fc7",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "2b0f0852f6f7836a99190139d2ae2fc7",
-      "target": "outside:a07f0852-f6f7-8364-9113-07ea21165718",
-      "type": "relation",
-      "label": "Person"
-    },
-    {
-      "source": "695f0852f6f78286b2bd01bde743d17a",
-      "target": "469f0852f6f78246ad2c81e3d63b80b7",
-      "type": "relation",
-      "label": "Child Interface"
-    },
-    {
-      "source": "695f0852f6f78286b2bd01bde743d17a",
-      "target": "469f0852f6f78246ad2c81e3d63b80b7",
-      "type": "relation",
-      "label": "Parent Interface"
-    },
-    {
-      "source": "3b6f0852f6f78374854581df2e3c0078",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "3b6f0852f6f78374854581df2e3c0078",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "3b6f0852f6f78374854581df2e3c0078",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Blocked By"
-    },
-    {
-      "source": "3b6f0852f6f78374854581df2e3c0078",
-      "target": "4daf0852f6f783bdbde5817464decfa2",
-      "type": "relation",
-      "label": "Events"
     },
     {
       "source": "3b6f0852f6f78374854581df2e3c0078",
@@ -3576,27 +2703,39 @@
     },
     {
       "source": "3b6f0852f6f78374854581df2e3c0078",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "3b6f0852f6f78374854581df2e3c0078",
       "target": "3b6f0852f6f78374854581df2e3c0078",
       "type": "relation",
-      "label": "Is Blocking"
-    },
-    {
-      "source": "3b6f0852f6f78374854581df2e3c0078",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
+      "label": "Sub Project"
     },
     {
       "source": "3b6f0852f6f78374854581df2e3c0078",
       "target": "c5af0852f6f7828080a581279bebaf0d",
       "type": "relation",
       "label": "Meeting Notes"
+    },
+    {
+      "source": "3b6f0852f6f78374854581df2e3c0078",
+      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
+      "type": "relation",
+      "label": "Resources"
+    },
+    {
+      "source": "3b6f0852f6f78374854581df2e3c0078",
+      "target": "d0ef0852f6f782f986aa01802db304b0",
+      "type": "relation",
+      "label": "Areas"
+    },
+    {
+      "source": "3b6f0852f6f78374854581df2e3c0078",
+      "target": "609f0852f6f78315b71f81d5d273c13e",
+      "type": "relation",
+      "label": "Goals"
+    },
+    {
+      "source": "3b6f0852f6f78374854581df2e3c0078",
+      "target": "4daf0852f6f783bdbde5817464decfa2",
+      "type": "relation",
+      "label": "Events"
     },
     {
       "source": "3b6f0852f6f78374854581df2e3c0078",
@@ -3612,33 +2751,27 @@
     },
     {
       "source": "3b6f0852f6f78374854581df2e3c0078",
-      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "3b6f0852f6f78374854581df2e3c0078",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Sub Project"
-    },
-    {
-      "source": "3b6f0852f6f78374854581df2e3c0078",
       "target": "4c3f0852f6f7835d8c99017f82fb3b99",
       "type": "relation",
       "label": "Tasks"
     },
     {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
+      "source": "3b6f0852f6f78374854581df2e3c0078",
+      "target": "3b6f0852f6f78374854581df2e3c0078",
       "type": "relation",
-      "label": "AI Chat logs"
+      "label": "Is Blocking"
+    },
+    {
+      "source": "3b6f0852f6f78374854581df2e3c0078",
+      "target": "3b6f0852f6f78374854581df2e3c0078",
+      "type": "relation",
+      "label": "Blocked By"
     },
     {
       "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
+      "target": "outside:246f0852f6f783e98b41075b06780864",
       "type": "relation",
-      "label": "Areas"
+      "label": "Checklist Item"
     },
     {
       "source": "4c3f0852f6f7835d8c99017f82fb3b99",
@@ -3648,33 +2781,45 @@
     },
     {
       "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "target": "d0ef0852f6f782f986aa01802db304b0",
       "type": "relation",
-      "label": "Blocking"
-    },
-    {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "outside:246f0852-f6f7-83e9-8b41-075b06780864",
-      "type": "relation",
-      "label": "Checklist Item"
-    },
-    {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "outside:64068b14-28a8-446c-b867-236135411223",
-      "type": "relation",
-      "label": "Content"
-    },
-    {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
-      "type": "relation",
-      "label": "Delegate"
+      "label": "Areas"
     },
     {
       "source": "4c3f0852f6f7835d8c99017f82fb3b99",
       "target": "4daf0852f6f783bdbde5817464decfa2",
       "type": "relation",
       "label": "Events"
+    },
+    {
+      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "target": "c5af0852f6f7828080a581279bebaf0d",
+      "type": "relation",
+      "label": "Meeting Notes"
+    },
+    {
+      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "type": "relation",
+      "label": "Blocking"
+    },
+    {
+      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
+      "type": "relation",
+      "label": "Resources"
+    },
+    {
+      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "target": "outside:007f0852f6f782c795f8079c97f7a36b",
+      "type": "relation",
+      "label": "Google Drive"
+    },
+    {
+      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "target": "3a7f0852f6f7834bb01e01d9c8232903",
+      "type": "relation",
+      "label": "Notes"
     },
     {
       "source": "4c3f0852f6f7835d8c99017f82fb3b99",
@@ -3690,27 +2835,15 @@
     },
     {
       "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "outside:007f0852-f6f7-82c7-95f8-079c97f7a36b",
+      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
       "type": "relation",
-      "label": "Google Drive"
+      "label": "Delegate"
     },
     {
       "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
+      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
       "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
+      "label": "Sub Tasks"
     },
     {
       "source": "4c3f0852f6f7835d8c99017f82fb3b99",
@@ -3725,40 +2858,40 @@
       "label": "Project"
     },
     {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "source": "3a7f0852f6f7834bb01e01d9c8232903",
+      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "type": "relation",
+      "label": "Tasks"
+    },
+    {
+      "source": "3a7f0852f6f7834bb01e01d9c8232903",
+      "target": "3a7f0852f6f7834bb01e01d9c8232903",
+      "type": "relation",
+      "label": "Parent Notes"
+    },
+    {
+      "source": "3a7f0852f6f7834bb01e01d9c8232903",
+      "target": "3a7f0852f6f7834bb01e01d9c8232903",
+      "type": "relation",
+      "label": "Sub Notes"
+    },
+    {
+      "source": "3a7f0852f6f7834bb01e01d9c8232903",
       "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
       "type": "relation",
       "label": "Resources"
     },
     {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Sub Tasks"
-    },
-    {
-      "source": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "target": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "type": "relation",
-      "label": "System Builds"
-    },
-    {
       "source": "3a7f0852f6f7834bb01e01d9c8232903",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
+      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
       "type": "relation",
-      "label": "AI Chat logs"
+      "label": "Tags"
     },
     {
       "source": "3a7f0852f6f7834bb01e01d9c8232903",
       "target": "d0ef0852f6f782f986aa01802db304b0",
       "type": "relation",
       "label": "Areas"
-    },
-    {
-      "source": "3a7f0852f6f7834bb01e01d9c8232903",
-      "target": "outside:f1508b09-9ae2-4381-9448-9f1c0214bf30",
-      "type": "relation",
-      "label": "Component Library"
     },
     {
       "source": "3a7f0852f6f7834bb01e01d9c8232903",
@@ -3774,69 +2907,21 @@
     },
     {
       "source": "3a7f0852f6f7834bb01e01d9c8232903",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "3a7f0852f6f7834bb01e01d9c8232903",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "3a7f0852f6f7834bb01e01d9c8232903",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Parent Notes"
-    },
-    {
-      "source": "3a7f0852f6f7834bb01e01d9c8232903",
       "target": "3b6f0852f6f78374854581df2e3c0078",
       "type": "relation",
       "label": "Projects"
     },
     {
       "source": "3a7f0852f6f7834bb01e01d9c8232903",
-      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
+      "target": "609f0852f6f78315b71f81d5d273c13e",
       "type": "relation",
-      "label": "Resources"
+      "label": "Goals"
     },
     {
-      "source": "3a7f0852f6f7834bb01e01d9c8232903",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Sub Notes"
-    },
-    {
-      "source": "3a7f0852f6f7834bb01e01d9c8232903",
-      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "3a7f0852f6f7834bb01e01d9c8232903",
+      "source": "c5af0852f6f7828080a581279bebaf0d",
       "target": "4c3f0852f6f7835d8c99017f82fb3b99",
       "type": "relation",
       "label": "Tasks"
-    },
-    {
-      "source": "c5af0852f6f7828080a581279bebaf0d",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "c5af0852f6f7828080a581279bebaf0d",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "c5af0852f6f7828080a581279bebaf0d",
-      "target": "4daf0852f6f783bdbde5817464decfa2",
-      "type": "relation",
-      "label": "Events"
     },
     {
       "source": "c5af0852f6f7828080a581279bebaf0d",
@@ -3852,9 +2937,21 @@
     },
     {
       "source": "c5af0852f6f7828080a581279bebaf0d",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
+      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
       "type": "relation",
-      "label": "Goals"
+      "label": "Tags"
+    },
+    {
+      "source": "c5af0852f6f7828080a581279bebaf0d",
+      "target": "d0ef0852f6f782f986aa01802db304b0",
+      "type": "relation",
+      "label": "Areas"
+    },
+    {
+      "source": "c5af0852f6f7828080a581279bebaf0d",
+      "target": "4daf0852f6f783bdbde5817464decfa2",
+      "type": "relation",
+      "label": "Events"
     },
     {
       "source": "c5af0852f6f7828080a581279bebaf0d",
@@ -3864,21 +2961,15 @@
     },
     {
       "source": "c5af0852f6f7828080a581279bebaf0d",
-      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
+      "target": "609f0852f6f78315b71f81d5d273c13e",
       "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "c5af0852f6f7828080a581279bebaf0d",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Tasks"
+      "label": "Goals"
     },
     {
       "source": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
+      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
       "type": "relation",
-      "label": "AI Chat logs"
+      "label": "Tag"
     },
     {
       "source": "1a8f0852f6f782d6a7cb0122a91d8e61",
@@ -3894,45 +2985,15 @@
     },
     {
       "source": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "target": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "type": "relation",
-      "label": "System Builds"
-    },
-    {
-      "source": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "type": "relation",
-      "label": "Tag"
-    },
-    {
-      "source": "1a8f0852f6f782d6a7cb0122a91d8e61",
       "target": "4c3f0852f6f7835d8c99017f82fb3b99",
       "type": "relation",
       "label": "Tasks"
     },
     {
-      "source": "6a4f0852f6f783e4b7b381c21ced5f69",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
+      "source": "1a8f0852f6f782d6a7cb0122a91d8e61",
+      "target": "3b6f0852f6f78374854581df2e3c0078",
       "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "6a4f0852f6f783e4b7b381c21ced5f69",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "6a4f0852f6f783e4b7b381c21ced5f69",
-      "target": "4daf0852f6f783bdbde5817464decfa2",
-      "type": "relation",
-      "label": "Events"
+      "label": "Projects"
     },
     {
       "source": "6a4f0852f6f783e4b7b381c21ced5f69",
@@ -3959,10 +3020,16 @@
       "label": "Tasks"
     },
     {
-      "source": "3e3f0852f6f782b3b53b8179bf44b6df",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
+      "source": "6a4f0852f6f783e4b7b381c21ced5f69",
+      "target": "d0ef0852f6f782f986aa01802db304b0",
       "type": "relation",
-      "label": "AI Chat logs"
+      "label": "Areas"
+    },
+    {
+      "source": "6a4f0852f6f783e4b7b381c21ced5f69",
+      "target": "4daf0852f6f783bdbde5817464decfa2",
+      "type": "relation",
+      "label": "Events"
     },
     {
       "source": "3e3f0852f6f782b3b53b8179bf44b6df",
@@ -3978,27 +3045,9 @@
     },
     {
       "source": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
+      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
       "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
-      "type": "relation",
-      "label": "Contacts"
-    },
-    {
-      "source": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
+      "label": "Resources"
     },
     {
       "source": "a08f0852f6f7829c93ba01f4a88d26bc",
@@ -4008,36 +3057,12 @@
     },
     {
       "source": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "4daf0852f6f783bdbde5817464decfa2",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "4daf0852f6f783bdbde5817464decfa2",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "4daf0852f6f783bdbde5817464decfa2",
       "target": "6a4f0852f6f783e4b7b381c21ced5f69",
       "type": "relation",
-      "label": "External Attendees"
+      "label": "Contacts"
     },
     {
-      "source": "4daf0852f6f783bdbde5817464decfa2",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "4daf0852f6f783bdbde5817464decfa2",
+      "source": "a08f0852f6f7829c93ba01f4a88d26bc",
       "target": "3a7f0852f6f7834bb01e01d9c8232903",
       "type": "relation",
       "label": "Notes"
@@ -4050,27 +3075,39 @@
     },
     {
       "source": "4daf0852f6f783bdbde5817464decfa2",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
+      "target": "c5af0852f6f7828080a581279bebaf0d",
       "type": "relation",
-      "label": "Tasks"
+      "label": "Meeting Notes"
     },
     {
-      "source": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat Logs"
-    },
-    {
-      "source": "f1ff0852f6f783b79faa01a02c7af2a3",
+      "source": "4daf0852f6f783bdbde5817464decfa2",
       "target": "d0ef0852f6f782f986aa01802db304b0",
       "type": "relation",
       "label": "Areas"
     },
     {
-      "source": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "target": "9faf0852f6f7822da89381a62caf9136",
+      "source": "4daf0852f6f783bdbde5817464decfa2",
+      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
       "type": "relation",
-      "label": "Future Vision"
+      "label": "Tasks"
+    },
+    {
+      "source": "4daf0852f6f783bdbde5817464decfa2",
+      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
+      "type": "relation",
+      "label": "External Attendees"
+    },
+    {
+      "source": "4daf0852f6f783bdbde5817464decfa2",
+      "target": "3a7f0852f6f7834bb01e01d9c8232903",
+      "type": "relation",
+      "label": "Notes"
+    },
+    {
+      "source": "f1ff0852f6f783b79faa01a02c7af2a3",
+      "target": "3a7f0852f6f7834bb01e01d9c8232903",
+      "type": "relation",
+      "label": "Notes"
     },
     {
       "source": "f1ff0852f6f783b79faa01a02c7af2a3",
@@ -4086,99 +3123,21 @@
     },
     {
       "source": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
+      "target": "d0ef0852f6f782f986aa01802db304b0",
       "type": "relation",
-      "label": "Notes"
+      "label": "Areas"
+    },
+    {
+      "source": "f1ff0852f6f783b79faa01a02c7af2a3",
+      "target": "9faf0852f6f7822da89381a62caf9136",
+      "type": "relation",
+      "label": "Future Vision"
     },
     {
       "source": "f1ff0852f6f783b79faa01a02c7af2a3",
       "target": "f1ff0852f6f783b79faa01a02c7af2a3",
       "type": "relation",
       "label": "Habit"
-    },
-    {
-      "source": "a8af0852f6f78315a8e181ba74ad9941",
-      "target": "469f0852f6f78246ad2c81e3d63b80b7",
-      "type": "relation",
-      "label": "Child Interface"
-    },
-    {
-      "source": "a8af0852f6f78315a8e181ba74ad9941",
-      "target": "469f0852f6f78246ad2c81e3d63b80b7",
-      "type": "relation",
-      "label": "Parent Interface"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:224dbcd4-ec9c-802f-a492-000bac06b571",
-      "type": "relation",
-      "label": "Accounts"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:3ace9c2c-8fa4-4ddb-83d5-5e35e3d033a1",
-      "type": "relation",
-      "label": "Agent Tasks"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:c005e5fb-f304-459d-9485-e51cd3568bc2",
-      "type": "relation",
-      "label": "Arc"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-8137-9fda-000b5f73216a",
-      "type": "relation",
-      "label": "Areas (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:2c5dbcd4-ec9c-805e-bddc-000be7a8caa6",
-      "type": "relation",
-      "label": "Change Log"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:80bb07a5-71ca-4a13-a0ea-8fdbfb3cd7b1",
-      "type": "relation",
-      "label": "Component Library"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
-      "type": "relation",
-      "label": "Contacts"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-81c8-884c-000b321c241e",
-      "type": "relation",
-      "label": "Contacts (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:216dbcd4-ec9c-8152-9091-000bbeee80e9",
-      "type": "relation",
-      "label": "Content (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1f4dbcd4-ec9c-810f-ac2f-000b3dab209d",
-      "type": "relation",
-      "label": "Deals (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:cce56920-6406-4847-8536-7abd61aeb2a6",
-      "type": "relation",
-      "label": "Episodic Memory"
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
@@ -4188,81 +3147,9 @@
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-811a-b302-000b77245de0",
+      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
       "type": "relation",
-      "label": "Events (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-81de-bb31-000bb8c5d527",
-      "type": "relation",
-      "label": "Future Vision (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-811f-bd6d-000b571f01a8",
-      "type": "relation",
-      "label": "Goals (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-81b4-83d2-000bb2209e2e",
-      "type": "relation",
-      "label": "Jobs (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:216dbcd4-ec9c-80b8-a082-000b564a91ab",
-      "type": "relation",
-      "label": "Keywords (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:203dbcd4-ec9c-817c-a161-000b440b7684",
-      "type": "relation",
-      "label": "Master Keyword List (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-814c-a19c-000bc3a75039",
-      "type": "relation",
-      "label": "Meeting Notes (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:2a3dbcd4-ec9c-80a0-91f4-000b16c6d9a1",
-      "type": "relation",
-      "label": "Modes"
+      "label": "Resources"
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
@@ -4272,27 +3159,9 @@
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-81eb-b2d2-000b8aa14410",
+      "target": "18df0852f6f782d3a14e01933039effa",
       "type": "relation",
-      "label": "Notes (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "3e3f0852f6f782b3b53b8179bf44b6df",
-      "type": "relation",
-      "label": "Organisations"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-8105-8d7c-000bae685028",
-      "type": "relation",
-      "label": "Organisations (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:9fe5a881-82d4-40e7-8501-ab5eccda1e5b",
-      "type": "relation",
-      "label": "Procedural Memory"
+      "label": "Related Chats"
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
@@ -4302,69 +3171,15 @@
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:254dbcd4-ec9c-81bd-b305-000bc53fae13",
+      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
       "type": "relation",
-      "label": "Projects (VOOH)"
+      "label": "Habits"
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:a427817b-3455-4b3c-a96c-0d0687b0a285",
+      "target": "c5af0852f6f7828080a581279bebaf0d",
       "type": "relation",
-      "label": "Prospective Memory"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:2d80fdb7-8aa7-4f3b-9d03-ee85c75d4346",
-      "type": "relation",
-      "label": "Recurring Reminders"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "18df0852f6f782d3a14e01933039effa",
-      "type": "relation",
-      "label": "Related Chats"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-81e7-a676-000b05502fa7",
-      "type": "relation",
-      "label": "Resources (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:7339de7f-3bbb-4d5b-acfd-147cbf725207",
-      "type": "relation",
-      "label": "Semantic Memory"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1f4dbcd4-ec9c-80fa-ae6b-000b2f3beb45",
-      "type": "relation",
-      "label": "Service Type (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "type": "relation",
-      "label": "System Builds"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-81b2-8caa-000bbc270488",
-      "type": "relation",
-      "label": "Tags (VOOH)"
+      "label": "Meeting Notes"
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
@@ -4374,21 +3189,15 @@
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-81f6-bc39-000b6e052fee",
+      "target": "9faf0852f6f7822da89381a62caf9136",
       "type": "relation",
-      "label": "Tasks (VOOH)"
+      "label": "Future Vision"
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:203dbcd4-ec9c-803a-b4ee-000ba8b67834",
+      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
       "type": "relation",
-      "label": "Topic Ideas (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:224dbcd4-ec9c-8006-9b98-000b689dc9d8",
-      "type": "relation",
-      "label": "Transactions"
+      "label": "Tags"
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
@@ -4398,1183 +3207,31 @@
     },
     {
       "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-8160-b468-000bd6dde110",
-      "type": "relation",
-      "label": "Weekly Review (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:1dddbcd4-ec9c-8097-be99-000b6ab34cc6",
-      "type": "relation",
-      "label": "Wiki (VOOH)"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:b8649d2c-5d79-4367-a8d2-b58b84728bbd",
-      "type": "relation",
-      "label": "⭐ Foundational Experience Output"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:9beb83db-43db-4c3c-9737-463494925129",
-      "type": "relation",
-      "label": "🛠️ Skills"
-    },
-    {
-      "source": "18df0852f6f782d3a14e01933039effa",
-      "target": "outside:41b306cf-838c-4f40-a129-93e95f7cc345",
-      "type": "relation",
-      "label": "🧠 Echo's Memory"
-    },
-    {
-      "source": "85ef0852f6f782c58aa30121f1ff1bc6",
-      "target": "18df0852f6f782d3a14e01933039effa",
-      "type": "relation",
-      "label": "AI Chat Log"
-    },
-    {
-      "source": "f13f0852f6f78231ad508166fff3fab1",
-      "target": "f13f0852f6f78231ad508166fff3fab1",
-      "type": "relation",
-      "label": "Child Interface"
-    },
-    {
-      "source": "f13f0852f6f78231ad508166fff3fab1",
-      "target": "f13f0852f6f78231ad508166fff3fab1",
-      "type": "relation",
-      "label": "Parent Interface"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat Logs"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Child Area"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "709f0852f6f783b689950199e11b1609",
+      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
       "type": "relation",
       "label": "Contacts"
     },
     {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "78af0852f6f7830589b08116f64d2ceb",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
+      "source": "18df0852f6f782d3a14e01933039effa",
+      "target": "609f0852f6f78315b71f81d5d273c13e",
       "type": "relation",
       "label": "Goals"
     },
     {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "414f0852f6f783dd88f881b229c0fd0d",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Parent Area"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "fa8f0852f6f783a89eef0142ee24beb1",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "a0ef0852f6f78341a68c811377d67481",
-      "target": "outside:224dbcd4-ec9c-8006-9b98-000b689dc9d8",
-      "type": "relation",
-      "label": "Transactions"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "414f0852f6f783dd88f881b229c0fd0d",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "outside:fb4467da-21cc-49b6-b2f6-1a2adb96ccf2",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Related Visions"
-    },
-    {
-      "source": "c25f0852f6f7829ab20501911c20dc39",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Area"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Blocked by"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Blocking"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Child Goal"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "414f0852f6f783dd88f881b229c0fd0d",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "outside:fb4467da-21cc-49b6-b2f6-1a2adb96ccf2",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Parent Goal"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "b02f0852f6f782d7bdc981affb6ca307",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "850f0852f6f78295bb9601b819074c1f",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "850f0852f6f78295bb9601b819074c1f",
-      "target": "outside:a07f0852-f6f7-8364-9113-07ea21165718",
-      "type": "relation",
-      "label": "Person"
-    },
-    {
-      "source": "738f0852f6f78307aa9181566ab33219",
-      "target": "f13f0852f6f78231ad508166fff3fab1",
-      "type": "relation",
-      "label": "Child Interface"
-    },
-    {
-      "source": "738f0852f6f78307aa9181566ab33219",
-      "target": "f13f0852f6f78231ad508166fff3fab1",
-      "type": "relation",
-      "label": "Parent Interface"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Blocked By"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "78af0852f6f7830589b08116f64d2ceb",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Is Blocking"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Parent project"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "fa8f0852f6f783a89eef0142ee24beb1",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Sub Project"
-    },
-    {
-      "source": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Blocked by"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Blocking"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "outside:8dcf0852-f6f7-8216-b7d9-07d31842824a",
-      "type": "relation",
-      "label": "Checklist Item"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "outside:64068b14-28a8-446c-b867-236135411223",
-      "type": "relation",
-      "label": "Content"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "709f0852f6f783b689950199e11b1609",
-      "type": "relation",
-      "label": "Delegate"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "78af0852f6f7830589b08116f64d2ceb",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "outside:6a4f0852-f6f7-8382-b938-0724fa3d475d",
-      "type": "relation",
-      "label": "Google Drive"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Parent Task"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Project"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "fa8f0852f6f783a89eef0142ee24beb1",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Sub Tasks"
-    },
-    {
-      "source": "6a2f0852f6f782cba336015fb76b71a4",
-      "target": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "type": "relation",
-      "label": "System Builds"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "outside:f1508b09-9ae2-4381-9448-9f1c0214bf30",
-      "type": "relation",
-      "label": "Component Library"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "78af0852f6f7830589b08116f64d2ceb",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Parent Notes"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "fa8f0852f6f783a89eef0142ee24beb1",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Sub Notes"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "4adf0852f6f782d087de81f2fb23e335",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "78af0852f6f7830589b08116f64d2ceb",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "709f0852f6f783b689950199e11b1609",
-      "type": "relation",
-      "label": "External Attendees"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "103f0852f6f78219b4c981ada07eec5a",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "fa8f0852f6f783a89eef0142ee24beb1",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "fa8f0852f6f783a89eef0142ee24beb1",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "fa8f0852f6f783a89eef0142ee24beb1",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "fa8f0852f6f783a89eef0142ee24beb1",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "fa8f0852f6f783a89eef0142ee24beb1",
-      "target": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "type": "relation",
-      "label": "System Builds"
-    },
-    {
-      "source": "fa8f0852f6f783a89eef0142ee24beb1",
-      "target": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "type": "relation",
-      "label": "Tag"
-    },
-    {
-      "source": "fa8f0852f6f783a89eef0142ee24beb1",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "709f0852f6f783b689950199e11b1609",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "709f0852f6f783b689950199e11b1609",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "709f0852f6f783b689950199e11b1609",
-      "target": "78af0852f6f7830589b08116f64d2ceb",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "709f0852f6f783b689950199e11b1609",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "709f0852f6f783b689950199e11b1609",
-      "target": "9def0852f6f782ed9abc8176ebf70345",
-      "type": "relation",
-      "label": "Organisation"
-    },
-    {
-      "source": "709f0852f6f783b689950199e11b1609",
-      "target": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "709f0852f6f783b689950199e11b1609",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "9def0852f6f782ed9abc8176ebf70345",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "9def0852f6f782ed9abc8176ebf70345",
-      "target": "709f0852f6f783b689950199e11b1609",
-      "type": "relation",
-      "label": "Contact"
-    },
-    {
-      "source": "9def0852f6f782ed9abc8176ebf70345",
-      "target": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "target": "709f0852f6f783b689950199e11b1609",
-      "type": "relation",
-      "label": "Contacts"
-    },
-    {
-      "source": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "target": "9def0852f6f782ed9abc8176ebf70345",
-      "type": "relation",
-      "label": "Organisation"
-    },
-    {
-      "source": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "target": "fa8f0852f6f783a89eef0142ee24beb1",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "78af0852f6f7830589b08116f64d2ceb",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "78af0852f6f7830589b08116f64d2ceb",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "78af0852f6f7830589b08116f64d2ceb",
-      "target": "709f0852f6f783b689950199e11b1609",
-      "type": "relation",
-      "label": "External Attendees"
-    },
-    {
-      "source": "78af0852f6f7830589b08116f64d2ceb",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "78af0852f6f7830589b08116f64d2ceb",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "78af0852f6f7830589b08116f64d2ceb",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "78af0852f6f7830589b08116f64d2ceb",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "414f0852f6f783dd88f881b229c0fd0d",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat Logs"
-    },
-    {
-      "source": "414f0852f6f783dd88f881b229c0fd0d",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "414f0852f6f783dd88f881b229c0fd0d",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "414f0852f6f783dd88f881b229c0fd0d",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "414f0852f6f783dd88f881b229c0fd0d",
-      "target": "414f0852f6f783dd88f881b229c0fd0d",
-      "type": "relation",
-      "label": "Habit Log"
-    },
-    {
-      "source": "414f0852f6f783dd88f881b229c0fd0d",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "414f0852f6f783dd88f881b229c0fd0d",
-      "target": "414f0852f6f783dd88f881b229c0fd0d",
-      "type": "relation",
-      "label": "Habit"
-    },
-    {
-      "source": "2fff0852f6f7832e8e630149445ee52e",
-      "target": "f13f0852f6f78231ad508166fff3fab1",
-      "type": "relation",
-      "label": "Child Interface"
-    },
-    {
-      "source": "2fff0852f6f7832e8e630149445ee52e",
-      "target": "f13f0852f6f78231ad508166fff3fab1",
-      "type": "relation",
-      "label": "Parent Interface"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:224dbcd4-ec9c-802f-a492-000bac06b571",
-      "type": "relation",
-      "label": "Accounts"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:3ace9c2c-8fa4-4ddb-83d5-5e35e3d033a1",
-      "type": "relation",
-      "label": "Agent Tasks"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:c005e5fb-f304-459d-9485-e51cd3568bc2",
-      "type": "relation",
-      "label": "Arc"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "a0ef0852f6f78341a68c811377d67481",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-8137-9fda-000b5f73216a",
-      "type": "relation",
-      "label": "Areas (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:2c5dbcd4-ec9c-805e-bddc-000be7a8caa6",
-      "type": "relation",
-      "label": "Change Log"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:80bb07a5-71ca-4a13-a0ea-8fdbfb3cd7b1",
-      "type": "relation",
-      "label": "Component Library"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "709f0852f6f783b689950199e11b1609",
-      "type": "relation",
-      "label": "Contacts"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-81c8-884c-000b321c241e",
-      "type": "relation",
-      "label": "Contacts (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:216dbcd4-ec9c-8152-9091-000bbeee80e9",
-      "type": "relation",
-      "label": "Content (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1f4dbcd4-ec9c-810f-ac2f-000b3dab209d",
-      "type": "relation",
-      "label": "Deals (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:cce56920-6406-4847-8536-7abd61aeb2a6",
-      "type": "relation",
-      "label": "Episodic Memory"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "78af0852f6f7830589b08116f64d2ceb",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-811a-b302-000b77245de0",
-      "type": "relation",
-      "label": "Events (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "c25f0852f6f7829ab20501911c20dc39",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-81de-bb31-000bb8c5d527",
-      "type": "relation",
-      "label": "Future Vision (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "b02f0852f6f782d7bdc981affb6ca307",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-811f-bd6d-000b571f01a8",
-      "type": "relation",
-      "label": "Goals (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "414f0852f6f783dd88f881b229c0fd0d",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-81b4-83d2-000bb2209e2e",
-      "type": "relation",
-      "label": "Jobs (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:216dbcd4-ec9c-80b8-a082-000b564a91ab",
-      "type": "relation",
-      "label": "Keywords (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:203dbcd4-ec9c-817c-a161-000b440b7684",
-      "type": "relation",
-      "label": "Master Keyword List (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "103f0852f6f78219b4c981ada07eec5a",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-814c-a19c-000bc3a75039",
-      "type": "relation",
-      "label": "Meeting Notes (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:2a3dbcd4-ec9c-80a0-91f4-000b16c6d9a1",
-      "type": "relation",
-      "label": "Modes"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "4adf0852f6f782d087de81f2fb23e335",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-81eb-b2d2-000b8aa14410",
-      "type": "relation",
-      "label": "Notes (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "9def0852f6f782ed9abc8176ebf70345",
+      "source": "18df0852f6f782d3a14e01933039effa",
+      "target": "3e3f0852f6f782b3b53b8179bf44b6df",
       "type": "relation",
       "label": "Organisations"
     },
     {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-8105-8d7c-000bae685028",
+      "source": "18df0852f6f782d3a14e01933039effa",
+      "target": "d0ef0852f6f782f986aa01802db304b0",
       "type": "relation",
-      "label": "Organisations (VOOH)"
+      "label": "Areas"
     },
     {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:9fe5a881-82d4-40e7-8501-ab5eccda1e5b",
-      "type": "relation",
-      "label": "Procedural Memory"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "42ef0852f6f783cbbdb1011cbc9e1703",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:254dbcd4-ec9c-81bd-b305-000bc53fae13",
-      "type": "relation",
-      "label": "Projects (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:a427817b-3455-4b3c-a96c-0d0687b0a285",
-      "type": "relation",
-      "label": "Prospective Memory"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:2d80fdb7-8aa7-4f3b-9d03-ee85c75d4346",
-      "type": "relation",
-      "label": "Recurring Reminders"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "fd5f0852f6f783ba94d581629a519da8",
-      "type": "relation",
-      "label": "Related Chats"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "fa8f0852f6f783a89eef0142ee24beb1",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-81e7-a676-000b05502fa7",
-      "type": "relation",
-      "label": "Resources (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:7339de7f-3bbb-4d5b-acfd-147cbf725207",
-      "type": "relation",
-      "label": "Semantic Memory"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1f4dbcd4-ec9c-80fa-ae6b-000b2f3beb45",
-      "type": "relation",
-      "label": "Service Type (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "type": "relation",
-      "label": "System Builds"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "ad3f0852f6f782feb4dc01b74a8244d4",
-      "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-81b2-8caa-000bbc270488",
-      "type": "relation",
-      "label": "Tags (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "6a2f0852f6f782cba336015fb76b71a4",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-81f6-bc39-000b6e052fee",
-      "type": "relation",
-      "label": "Tasks (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:203dbcd4-ec9c-803a-b4ee-000ba8b67834",
-      "type": "relation",
-      "label": "Topic Ideas (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:224dbcd4-ec9c-8006-9b98-000b689dc9d8",
-      "type": "relation",
-      "label": "Transactions"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "850f0852f6f78295bb9601b819074c1f",
-      "type": "relation",
-      "label": "Weekly Review"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-8160-b468-000bd6dde110",
-      "type": "relation",
-      "label": "Weekly Review (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:1dddbcd4-ec9c-8097-be99-000b6ab34cc6",
-      "type": "relation",
-      "label": "Wiki (VOOH)"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:b8649d2c-5d79-4367-a8d2-b58b84728bbd",
-      "type": "relation",
-      "label": "⭐ Foundational Experience Output"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:9beb83db-43db-4c3c-9737-463494925129",
-      "type": "relation",
-      "label": "🛠️ Skills"
-    },
-    {
-      "source": "fd5f0852f6f783ba94d581629a519da8",
-      "target": "outside:41b306cf-838c-4f40-a129-93e95f7cc345",
-      "type": "relation",
-      "label": "🧠 Echo's Memory"
-    },
-    {
-      "source": "cf2f0852f6f782a7a3b8814116165157",
-      "target": "fd5f0852f6f783ba94d581629a519da8",
+      "source": "85ef0852f6f782c58aa30121f1ff1bc6",
+      "target": "18df0852f6f782d3a14e01933039effa",
       "type": "relation",
       "label": "AI Chat Log"
     },
@@ -5588,25 +3245,19 @@
       "source": "baef0852f6f78389ad20815b859a2b5b",
       "target": "8f5f0852f6f783cdaf5e814d1211bbb5",
       "type": "relation",
-      "label": "Pricing"
+      "label": "Pricing 1"
     },
     {
       "source": "baef0852f6f78389ad20815b859a2b5b",
       "target": "8f5f0852f6f783cdaf5e814d1211bbb5",
       "type": "relation",
-      "label": "Pricing 1"
+      "label": "Pricing"
     },
     {
       "source": "baef0852f6f78389ad20815b859a2b5b",
       "target": "ed0f0852f6f78327a635814d14c3a7a3",
       "type": "relation",
       "label": "Tracking Log"
-    },
-    {
-      "source": "5b3f0852f6f783b58f46017a38019fd7",
-      "target": "baef0852f6f78389ad20815b859a2b5b",
-      "type": "relation",
-      "label": "Cigar"
     },
     {
       "source": "ed0f0852f6f78327a635814d14c3a7a3",
@@ -5633,24 +3284,6 @@
       "label": "Whisky"
     },
     {
-      "source": "574f0852f6f782b1993001b9ad401032",
-      "target": "275f0852f6f782baae9001e2833bb46a",
-      "type": "relation",
-      "label": "Whisky Where to Buy?"
-    },
-    {
-      "source": "c0bf0852f6f7829898a081f2fb8f942a",
-      "target": "275f0852f6f782baae9001e2833bb46a",
-      "type": "relation",
-      "label": "Whisky Where to Buy?"
-    },
-    {
-      "source": "973f0852f6f782689fba015e3ed7eddd",
-      "target": "275f0852f6f782baae9001e2833bb46a",
-      "type": "relation",
-      "label": "Whisky Where to Buy?"
-    },
-    {
       "source": "275f0852f6f782baae9001e2833bb46a",
       "target": "2c0f0852f6f78395933801dcb48afe27",
       "type": "relation",
@@ -5658,51 +3291,33 @@
     },
     {
       "source": "40cf0852f6f78280a513018be3707e4a",
-      "target": "outside:777f0852-f6f7-8277-a02f-87d4b99dc950",
+      "target": "outside:b9bf0852f6f7820e978587692f8a87bc",
       "type": "relation",
-      "label": "2021 Goal Overview"
+      "label": "Related to Sipho’s projects (My Nedbank Timeline.)"
     },
     {
       "source": "40cf0852f6f78280a513018be3707e4a",
-      "target": "outside:2b9f0852-f6f7-8217-a35d-0774d8ad42bd",
+      "target": "outside:2b9f0852f6f78217a35d0774d8ad42bd",
       "type": "relation",
       "label": "Linked to?"
     },
     {
       "source": "40cf0852f6f78280a513018be3707e4a",
-      "target": "outside:860f0852-f6f7-8294-89ad-0740e144b4b4",
+      "target": "outside:860f0852f6f7829489ad0740e144b4b4",
       "type": "relation",
       "label": "Related to Gareth’s projects (My Nedbank Timeline.)"
     },
     {
       "source": "40cf0852f6f78280a513018be3707e4a",
-      "target": "outside:ebbf0852-f6f7-82f6-a40f-8767cced018d",
+      "target": "outside:ebbf0852f6f782f6a40f8767cced018d",
       "type": "relation",
       "label": "Related to Gareth’s projects (My Nedbank Timeline.) 1"
     },
     {
       "source": "40cf0852f6f78280a513018be3707e4a",
-      "target": "outside:b9bf0852-f6f7-820e-9785-87692f8a87bc",
+      "target": "outside:777f0852f6f78277a02f87d4b99dc950",
       "type": "relation",
-      "label": "Related to Sipho’s projects (My Nedbank Timeline.)"
-    },
-    {
-      "source": "1dbf0852f6f78121906ae17a5d4a1dd7",
-      "target": "1dbf0852f6f7819695efcdda93b9f5ec",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "1dbf0852f6f78121906ae17a5d4a1dd7",
-      "target": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "1dbf0852f6f78121906ae17a5d4a1dd7",
-      "target": "1dbf0852f6f78121906ae17a5d4a1dd7",
-      "type": "relation",
-      "label": "Parent Area"
+      "label": "2021 Goal Overview"
     },
     {
       "source": "1dbf0852f6f78121906ae17a5d4a1dd7",
@@ -5717,10 +3332,22 @@
       "label": "Tasks"
     },
     {
-      "source": "1dbf0852f6f7819695efcdda93b9f5ec",
+      "source": "1dbf0852f6f78121906ae17a5d4a1dd7",
       "target": "1dbf0852f6f78121906ae17a5d4a1dd7",
       "type": "relation",
-      "label": "Areas"
+      "label": "Parent Area"
+    },
+    {
+      "source": "1dbf0852f6f78121906ae17a5d4a1dd7",
+      "target": "1dbf0852f6f7819695efcdda93b9f5ec",
+      "type": "relation",
+      "label": "Future Vision"
+    },
+    {
+      "source": "1dbf0852f6f78121906ae17a5d4a1dd7",
+      "target": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
+      "type": "relation",
+      "label": "Goals"
     },
     {
       "source": "1dbf0852f6f7819695efcdda93b9f5ec",
@@ -5736,9 +3363,21 @@
     },
     {
       "source": "1dbf0852f6f7819695efcdda93b9f5ec",
+      "target": "1dbf0852f6f78121906ae17a5d4a1dd7",
+      "type": "relation",
+      "label": "Areas"
+    },
+    {
+      "source": "1dbf0852f6f7819695efcdda93b9f5ec",
       "target": "1dbf0852f6f781499cb4d513f63818f1",
       "type": "relation",
       "label": "Tasks"
+    },
+    {
+      "source": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
+      "target": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
+      "type": "relation",
+      "label": "Blocking"
     },
     {
       "source": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
@@ -5751,12 +3390,6 @@
       "target": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
       "type": "relation",
       "label": "Blocked by"
-    },
-    {
-      "source": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
-      "target": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
-      "type": "relation",
-      "label": "Blocking"
     },
     {
       "source": "1dbf0852f6f781a9bb5ed70f4e5bb08b",
@@ -5784,15 +3417,15 @@
     },
     {
       "source": "1dbf0852f6f781499cb4d513f63818f1",
-      "target": "1dbf0852f6f78121906ae17a5d4a1dd7",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "1dbf0852f6f781499cb4d513f63818f1",
       "target": "1dbf0852f6f781499cb4d513f63818f1",
       "type": "relation",
       "label": "Blocked by"
+    },
+    {
+      "source": "1dbf0852f6f781499cb4d513f63818f1",
+      "target": "1dbf0852f6f78121906ae17a5d4a1dd7",
+      "type": "relation",
+      "label": "Areas"
     },
     {
       "source": "1dbf0852f6f781499cb4d513f63818f1",
@@ -5802,9 +3435,9 @@
     },
     {
       "source": "1dbf0852f6f781499cb4d513f63818f1",
-      "target": "outside:1d1dbcd4-ec9c-8105-ac43-000b79345560",
+      "target": "outside:1dbf0852f6f7813f92a2000bac9b5226",
       "type": "relation",
-      "label": "Delegate"
+      "label": "Google Drive"
     },
     {
       "source": "1dbf0852f6f781499cb4d513f63818f1",
@@ -5820,21 +3453,15 @@
     },
     {
       "source": "1dbf0852f6f781499cb4d513f63818f1",
-      "target": "outside:1dbf0852-f6f7-813f-92a2-000bac9b5226",
+      "target": "1dbf0852f6f781499cb4d513f63818f1",
       "type": "relation",
-      "label": "Google Drive"
+      "label": "Sub Tasks"
     },
     {
       "source": "1dbf0852f6f781499cb4d513f63818f1",
       "target": "1dbf0852f6f781499cb4d513f63818f1",
       "type": "relation",
       "label": "Parent Task"
-    },
-    {
-      "source": "1dbf0852f6f781499cb4d513f63818f1",
-      "target": "1dbf0852f6f781499cb4d513f63818f1",
-      "type": "relation",
-      "label": "Sub Tasks"
     },
     {
       "source": "1edf0852f6f782dfa3ee8188b6e27549",
@@ -5877,558 +3504,6 @@
       "target": "318f0852f6f783c7844b81ec9e20284b",
       "type": "relation",
       "label": "Travel Destinations"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat Logs"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Child Area"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
-      "type": "relation",
-      "label": "Contacts"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "4daf0852f6f783bdbde5817464decfa2",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Parent Area"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "4fef0852f6f7823ba5ae01199966986d",
-      "target": "outside:224dbcd4-ec9c-8006-9b98-000b689dc9d8",
-      "type": "relation",
-      "label": "Transactions"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "18df0852f6f782d3a14e01933039effa",
-      "type": "relation",
-      "label": "AI Chat logs (Ramo)"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "outside:fb4467da-21cc-49b6-b2f6-1a2adb96ccf2",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Related Visions"
-    },
-    {
-      "source": "350f0852f6f783ec919401e9a5aff96b",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "18df0852f6f782d3a14e01933039effa",
-      "type": "relation",
-      "label": "AI Chat logs (Ramo)"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Area"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Blocked by"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Blocking"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Child Goal"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "f1ff0852f6f783b79faa01a02c7af2a3",
-      "type": "relation",
-      "label": "Habits"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "outside:fb4467da-21cc-49b6-b2f6-1a2adb96ccf2",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Parent Goal"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "001f0852f6f7822883eb813d0c5f7773",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "4abf0852f6f783e18f2f81fd21c3f08a",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "4abf0852f6f783e18f2f81fd21c3f08a",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "4abf0852f6f783e18f2f81fd21c3f08a",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "4abf0852f6f783e18f2f81fd21c3f08a",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "4abf0852f6f783e18f2f81fd21c3f08a",
-      "target": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "type": "relation",
-      "label": "System Builds"
-    },
-    {
-      "source": "4abf0852f6f783e18f2f81fd21c3f08a",
-      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "type": "relation",
-      "label": "Tag"
-    },
-    {
-      "source": "4abf0852f6f783e18f2f81fd21c3f08a",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Blocked by"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Blocking"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "outside:246f0852-f6f7-83e9-8b41-075b06780864",
-      "type": "relation",
-      "label": "Checklist Item"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "outside:64068b14-28a8-446c-b867-236135411223",
-      "type": "relation",
-      "label": "Content"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "6a4f0852f6f783e4b7b381c21ced5f69",
-      "type": "relation",
-      "label": "Delegate"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "4daf0852f6f783bdbde5817464decfa2",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "outside:007f0852-f6f7-82c7-95f8-079c97f7a36b",
-      "type": "relation",
-      "label": "Google Drive"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Parent Task"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Project"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Sub Tasks"
-    },
-    {
-      "source": "1bff0852f6f782f492c8017efca40b87",
-      "target": "outside:906eff74-8ff8-4942-80be-9c54baef74dd",
-      "type": "relation",
-      "label": "System Builds"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "outside:f1508b09-9ae2-4381-9448-9f1c0214bf30",
-      "type": "relation",
-      "label": "Component Library"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "4daf0852f6f783bdbde5817464decfa2",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Parent Notes"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Projects"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Sub Notes"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "a08f0852f6f7829c93ba01f4a88d26bc",
-      "type": "relation",
-      "label": "Tags"
-    },
-    {
-      "source": "1e1f0852f6f7839f9da601c796807a69",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Tasks"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "outside:2a3dbcd4-ec9c-80b5-b82b-000bf941647f",
-      "type": "relation",
-      "label": "AI Chat logs"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "d0ef0852f6f782f986aa01802db304b0",
-      "type": "relation",
-      "label": "Areas"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Blocked By"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "4daf0852f6f783bdbde5817464decfa2",
-      "type": "relation",
-      "label": "Events"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "9faf0852f6f7822da89381a62caf9136",
-      "type": "relation",
-      "label": "Future Vision"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "609f0852f6f78315b71f81d5d273c13e",
-      "type": "relation",
-      "label": "Goals"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Is Blocking"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "outside:7795ddbb-1dd6-434f-9b24-4d2db3aea42a",
-      "type": "relation",
-      "label": "Marketing Content"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "c5af0852f6f7828080a581279bebaf0d",
-      "type": "relation",
-      "label": "Meeting Notes"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "3a7f0852f6f7834bb01e01d9c8232903",
-      "type": "relation",
-      "label": "Notes"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Parent project"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "1a8f0852f6f782d6a7cb0122a91d8e61",
-      "type": "relation",
-      "label": "Resources"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "3b6f0852f6f78374854581df2e3c0078",
-      "type": "relation",
-      "label": "Sub Project"
-    },
-    {
-      "source": "766f0852f6f7823b9eb501d6f3aecd69",
-      "target": "4c3f0852f6f7835d8c99017f82fb3b99",
-      "type": "relation",
-      "label": "Tasks"
     }
   ],
   "reference": {
@@ -6436,11 +3511,12 @@
     "author": "Pav Rusovs | Automation Orbit",
     "url": "https://www.youtube.com/watch?v=Zs3faMCDYNs&t=8s"
   },
+  "coverage": "Automatically refreshed structure of the selected entry points, their direct page/database references and available relation schemas. Database records and page bodies are excluded.",
   "notes": [
-    "Group assignments and entry-point selection are editorial navigation choices. Reference edges mean a page embeds or links another object, not necessarily its parent.",
-    "Relation edges describe database schemas, not populated record relationships. An outside-snapshot target is not proven broken.",
-    "Both migrated PYLOS copies and the pre-existing Essential Edition remain separate. No canonical-system or migration signoff is implied.",
-    "Timeline uses available last-edited metadata. Missing dates remain undated. There is no activity log.",
-    "No credentials, page bodies, record values, signed asset URLs, emails or financial balances are included. Notion access controls apply when opening a source link."
+    "The selected entry points and area assignments define the public map; this is not a crawl of every workspace page or database record.",
+    "Reference edges mean linked or embedded objects. Relation edges describe schemas, not populated record relationships.",
+    "Notion does not expose 22 non-page blocks in full through its API. These are omitted; known linked views retain their last observed title with an explicit evidence label.",
+    "Updates follow Notion webhook delivery, with a five-minute recovery check. Open maps check for new data every 15 seconds.",
+    "No credentials, page bodies, record values, signed asset URLs, emails or balances are published. Source links retain Notion permissions."
   ]
 }

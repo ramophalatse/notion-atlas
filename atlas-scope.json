@@ -1,0 +1,211 @@
+{
+  "workspaceId": "c707d4a0-0026-4c58-8d82-00798c651083",
+  "workspace": "Ramo Phalatsi’s Notion",
+  "integrationId": "40ff0852-f6f7-816b-ae63-00277cc06c63",
+  "groups": [
+    {
+      "id": "life",
+      "title": "Life OS",
+      "hue": 158
+    },
+    {
+      "id": "personal",
+      "title": "Personal",
+      "hue": 300
+    },
+    {
+      "id": "travel",
+      "title": "Travel",
+      "hue": 145
+    },
+    {
+      "id": "collections",
+      "title": "Collections",
+      "hue": 50
+    },
+    {
+      "id": "work",
+      "title": "Nedbank",
+      "hue": 28
+    },
+    {
+      "id": "systems",
+      "title": "Open Engine",
+      "hue": 320
+    },
+    {
+      "id": "business",
+      "title": "Maru",
+      "hue": 340
+    },
+    {
+      "id": "finance",
+      "title": "Finance",
+      "hue": 130
+    }
+  ],
+  "roots": [
+    {
+      "id": "29ff0852f6f782eeb81301ea9ed966f4",
+      "group": "life",
+      "kind": "page"
+    },
+    {
+      "id": "ec6f0852f6f782b7817a812e37659b66",
+      "group": "life",
+      "kind": "page"
+    },
+    {
+      "id": "bb4f0852f6f7825fab67817cae6f9a2f",
+      "group": "travel",
+      "kind": "page"
+    },
+    {
+      "id": "da4f0852f6f7836fa1e381ce7e7ec0d9",
+      "group": "collections",
+      "kind": "page"
+    },
+    {
+      "id": "410f0852f6f782c5bd7a811ad7a15eb0",
+      "group": "collections",
+      "kind": "page"
+    },
+    {
+      "id": "af6f0852f6f78380b1d1018b33de6531",
+      "group": "work",
+      "kind": "page"
+    },
+    {
+      "id": "fa1f0852f6f7820e9b040129dce7287e",
+      "group": "systems",
+      "kind": "page"
+    },
+    {
+      "id": "40ef0852f6f7800c9eace5ec7ee7d621",
+      "group": "personal",
+      "kind": "page"
+    },
+    {
+      "id": "1dbf0852f6f780c3aa2fdf0cda658164",
+      "group": "life",
+      "kind": "page"
+    },
+    {
+      "id": "b69f0852f6f782aca5468135a70916a5",
+      "group": "personal",
+      "kind": "database"
+    },
+    {
+      "id": "2adf0852f6f7829f98c101a540a5281e",
+      "group": "personal",
+      "kind": "page"
+    },
+    {
+      "id": "6eff0852f6f782e18ac7010fc4bd8906",
+      "group": "business",
+      "kind": "page"
+    },
+    {
+      "id": "865f0852f6f782b8a3a2819ee4532513",
+      "group": "personal",
+      "kind": "page"
+    },
+    {
+      "id": "810f0852f6f78261ac550155839b7429",
+      "group": "finance",
+      "kind": "page"
+    },
+    {
+      "id": "9f0f0852f6f783a8bfbd815e14c9e8b8",
+      "group": "finance",
+      "kind": "database"
+    },
+    {
+      "id": "fe4f0852f6f7838f8ea8010370c65fba",
+      "group": "finance",
+      "kind": "database"
+    }
+  ],
+  "reference": {
+    "title": "Turn Claude Code Into Your AI Operating System (4 Layers)",
+    "author": "Pav Rusovs | Automation Orbit",
+    "url": "https://www.youtube.com/watch?v=Zs3faMCDYNs&t=8s"
+  },
+  "viewHints": {
+    "695f0852f6f78286b2bd01bde743d17a": "View of Interfaces",
+    "a8af0852f6f78315a8e181ba74ad9941": "View of Interfaces",
+    "738f0852f6f78307aa9181566ab33219": "View of Interfaces",
+    "2fff0852f6f7832e8e630149445ee52e": "View of Interfaces",
+    "a1ef0852f6f78285a8c401c727da8197": "View of Travel Destinations (1)",
+    "5b3f0852f6f783b58f46017a38019fd7": "View of Cigar Tracking Log",
+    "574f0852f6f782b1993001b9ad401032": "Whiskey Purchases and View of Whiskey Database",
+    "c0bf0852f6f7829898a081f2fb8f942a": "View of Whiskey Database",
+    "973f0852f6f782689fba015e3ed7eddd": "View of Whiskey Database",
+    "40ef0852f6f78026ae5bf33b41423959": "Untitled",
+    "40ef0852f6f78063948aef7c54304341": "Untitled",
+    "40ef0852f6f78079aa7bd6a629253add": "Untitled",
+    "40ef0852f6f780c0be73df7b1f71d326": "Untitled",
+    "40ef0852f6f780e2a588e557a1ab65e7": "Untitled",
+    "40ef0852f6f780649a3cd9b0bd079711": "Untitled",
+    "40ef0852f6f780bc8671f4dde978b65a": "Untitled",
+    "235f0852f6f783958f5781ad605d9e5a": "Untitled",
+    "039f0852f6f78205bc35812221f42331": "Untitled",
+    "765f0852f6f782fe9fb7011102fb6ec1": "Untitled",
+    "321f0852f6f782a086a90197208942c0": "Untitled",
+    "404f0852f6f782efa4e201e1a5e40a50": "Untitled",
+    "8b8f0852f6f7821881d50156d9f8b42e": "Untitled",
+    "e10f0852f6f7831a9d1981b18017362d": "Untitled",
+    "d18f0852f6f78387845a81d26d323333": "Untitled",
+    "ff2f0852f6f7820ab22981cac9701b42": "Untitled",
+    "f97f0852f6f78289b39201ee226b1408": "Untitled",
+    "4fef0852f6f7823ba5ae01199966986d": "View of Areas",
+    "350f0852f6f783ec919401e9a5aff96b": "View of Future Visions",
+    "001f0852f6f7822883eb813d0c5f7773": "View of Goals",
+    "4abf0852f6f783e18f2f81fd21c3f08a": "View of Resources",
+    "1bff0852f6f782f492c8017efca40b87": "View of Tasks",
+    "1e1f0852f6f7839f9da601c796807a69": "View of Notes",
+    "766f0852f6f7823b9eb501d6f3aecd69": "View of Projects"
+  },
+  "supplemental": [
+    {
+      "id": "318f0852f6f783c7844b81ec9e20284b",
+      "group": "travel",
+      "kind": "database"
+    },
+    {
+      "id": "1edf0852f6f782dfa3ee8188b6e27549",
+      "group": "travel",
+      "kind": "database"
+    },
+    {
+      "id": "db7f0852f6f782168ea78171580edb46",
+      "group": "travel",
+      "kind": "database"
+    },
+    {
+      "id": "234f0852f6f78236a2c681b71e637771",
+      "group": "travel",
+      "kind": "database"
+    },
+    {
+      "id": "a52f0852f6f782119e8601791ca5b742",
+      "group": "travel",
+      "kind": "database"
+    },
+    {
+      "id": "ef3f0852f6f783b7908381d8dc172a0b",
+      "group": "travel",
+      "kind": "database"
+    },
+    {
+      "id": "a33f0852f6f7827c93828198742a310b",
+      "group": "travel",
+      "kind": "database"
+    },
+    {
+      "id": "1a3f0852f6f783adaba601375c71a836",
+      "group": "travel",
+      "kind": "database"
+    }
+  ]
+}

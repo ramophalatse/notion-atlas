@@ -1,0 +1,10 @@
+[build]
+  publish = "public-backend"
+  functions = "netlify/functions"
+
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["atlas-scope.json", "data.json"]
+
+[functions."atlas-scheduled"]
+  schedule = "*/5 * * * *"
